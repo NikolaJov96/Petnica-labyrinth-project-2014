@@ -1,0 +1,98 @@
+[1, 2, 1, 0, 2, 1, 1, 1, 0, 2, 2, 1, 2, 2, 0, 0, 0, 0, 1, 2, 1, 1, 0, 1, 1, 1, 0, 1, 0, 0]
+[1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 2, 0, 1, 0, 2, 0, 1, 0, 2, 1, 0, 0, 2, 0, 0, 1, 0, 0, 1, 2]
+[1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 2, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 2, 1, 2, 0, 1, 2, 0, 1, 1]
+[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 2, 2, 1, 2, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 2, 0, 0, 0]
+[1, 1, 0, 0, 1, 1, 1, 1, 0, 2, 2, 1, 0, 2, 1, 0, 0, 1, 1, 1, 2, 0, 2, 2, 2, 0, 0, 1, 1, 1]
+[0, 1, 0, 1, 2, 0, 1, 1, 0, 0, 0, 1, 1, 2, 2, 1, 2, 2, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0]
+[1, 2, 0, 0, 1, 0, 0, 2, 0, 2, 0, 1, 0, 1, 0, 2, 0, 0, 1, 0, 0, 1, 0, 1, 0, 2, 0, 0, 1, 2]
+[1, 1, 1, 2, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 0, 1, 0, 0, 0, 1, 0, 1, 1, 2, 0, 0, 1, 2, 0]
+[1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 2, 1, 0, 0, 0, 2, 1, 1]
+[1, 0, 2, 2, 0, 1, 1, 2, 0, 1, 0, 2, 2, 0, 0, 0, 1, 2, 1, 0, 1, 1, 1, 0, 0, 1, 1, 2, 0, 0]
+[0, 1, 2, 2, 0, 1, 2, 1, 2, 2, 1, 0, 0, 2, 2, 0, 1, 1, 2, 1, 1, 0, 1, 0, 1, 0, 0, 0, 2, 0]
+[0, 1, 0, 1, 2, 0, 1, 1, 0, 0, 1, 1, 0, 1, 1, 1, 1, 2, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 2, 0]
+[1, 1, 0, 1, 1, 1, 2, 1, 0, 1, 2, 0, 0, 2, 1, 1, 1, 1, 0, 0, 0, 0, 2, 2, 2, 2, 1, 0, 0, 0]
+[0, 1, 0, 2, 1, 1, 2, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 2, 0, 0, 0, 1, 1, 2, 2, 1, 1, 1, 1]
+[2, 2, 1, 0, 1, 0, 0, 1, 2, 1, 1, 1, 1, 0, 0, 1, 0, 2, 1, 0, 0, 2, 0, 1, 0, 2, 2, 2, 0, 1]
+[1, 1, 1, 0, 0, 1, 2, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 2, 2, 1, 2, 1, 0, 0, 0, 0, 2, 1, 1, 1]
+[1, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 1, 1, 1, 2, 0, 0, 0, 1, 1, 0, 1, 2, 2, 0, 1, 2]
+[0, 0, 0, 1, 0, 2, 2, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 2, 0, 0, 1, 0, 2, 2, 1, 0, 0, 0]
+[1, 0, 1, 0, 1, 1, 1, 1, 2, 1, 2, 0, 1, 0, 0, 1, 1, 1, 0, 2, 0, 2, 1, 1, 1, 1, 1, 1, 1, 2]
+[1, 1, 0, 0, 0, 0, 1, 1, 2, 0, 0, 2, 2, 0, 2, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1]
+[2, 0, 1, 0, 1, 1, 0, 2, 2, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 2, 0, 1, 1, 2, 0, 0]
+[2, 0, 0, 1, 1, 1, 0, 2, 0, 0, 2, 0, 0, 1, 1, 1, 0, 1, 1, 1, 2, 2, 0, 0, 0, 1, 1, 1, 1, 0]
+[2, 0, 1, 1, 2, 1, 0, 2, 2, 1, 0, 2, 1, 2, 0, 0, 0, 1, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2]
+[2, 1, 0, 1, 1, 0, 0, 2, 1, 2, 0, 1, 1, 1, 0, 1, 1, 2, 2, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 2]
+[1, 0, 0, 0, 2, 2, 2, 0, 0, 2, 1, 2, 1, 1, 0, 2, 1, 0, 2, 1, 0, 2, 2, 0, 0, 1, 0, 1, 1, 2]
+Optimalna putanja:
+Pretraga uspela:  True
+Trajanje:  0.00899982452393
+Broj koraka:  23
+Broj poteza:  29
+Kraj
+
+A* bez klasa:
+Pretraga uspela:  True
+Trajanje:  0.00499987602234
+Broj koraka:  23
+Broj poteza:  29
+Kraj
+Vizualizacija:
+_ _ _ x _ _ _ _ x _ _ _ _ _ x x x x _ _ _ _ x _ _ _ x _ x x
+_ x _ x x _ x _ x _ _ x _ x _ x _ x _ _ x x _ x x _ x x _ _
+_ x _ _ _ x x _ _ _ _ _ _ _ x _ _ _ x _ _ _ _ _ x _ _ x _ _
+x x x _ x x x x _ x x x _ _ _ _ x x x _ _ x _ x _ x _ x x x
+_ _ x x _ _ _ _ x _ _ _ x _ _ x x _ _ _ _ x _ _ _ x x _ _ _
+x _ x _ _ x _ _ x x x _ _ _ _ _ _ _ x _ x x x x _ x _ x _ x
+_ _ x x _ x x _ x _ x _ x _ x _ x x _ x x _ x _ x _ x x _ _
+_ _ _ _ _ x x x x x x x _ x _ x _ x x x _ x _ _ _ x x _ _ x
+_ _ _ _ x _ _ _ _ x x _ _ _ _ x x _ _ x x _ _ _ x x x _ _ _
+_ x _ _ x _ _ _ x _ x _ _ x x x _ _ _ x _ _ _ x x _ _ _ x x
+x _ _ _ x _ _ _ _ _ _ x x _ _ x _ _ _ _ _ x _ x _ x x x _ x
+x _ x _ _ x _ _ x x _ _ x _ _ _ _ _ x x _ _ _ _ x x x _ _ x
+_ _ x _ _ _ _ _ x _ _ x x _ _ O O O x x x x _ _ _ _ _ x x x
+x _ x _ _ _ _ x _ _ _ x O O O O x O O x x x _ _ _ _ _ _ _ _
+_ _ _ x _ x x _ _ _ _ _ S x x _ x _ O x x _ x _ x _ _ _ x _
+_ _ _ x x _ _ _ _ _ x x x x _ _ x _ O O O O x x x x _ _ _ _
+_ _ x x x x x _ _ x x _ _ x _ _ _ _ x x x O O x _ _ _ x _ _
+x x x _ x _ _ _ _ _ x x _ x _ x x _ x _ x x O x _ _ _ x x x
+_ x _ x _ _ _ _ _ _ _ x _ x x _ _ _ x _ x _ O O O O _ _ _ _
+_ _ x x x x _ _ _ x x _ _ x _ _ _ _ _ x _ x _ _ _ O _ _ x _
+_ x _ x _ _ x _ _ x _ _ x x x x x _ _ _ _ x _ _ x E _ _ x x
+_ x x _ _ _ x _ x x _ x x _ _ _ x _ _ _ _ _ x x x _ _ _ _ x
+_ x _ _ _ _ x _ _ _ x _ _ _ x x x _ _ _ x x x x x x x x _ _
+_ _ x _ _ x x _ _ _ x _ _ _ x _ _ _ _ _ _ x _ x x x x x x _
+_ x x x _ _ _ x x _ _ _ _ _ x _ _ x _ _ x _ _ x x _ x _ _ _
+
+Potraga:
+Koeficient smera:  3
+Odradjeno: 90 %
+Srednji broj predjenih koraka:  161.0
+Najmanji broj predjenih koraka:  28
+Srednji Broj koraka do cilja:  36.2
+Najmanji Broj koraka do cilja:  23
+Srednji broj poteza:  49.6
+Najmanji broj poteza:  29
+Broj pronadjenih u ogranicenju od 10 s:  100.0 %
+Srednji vreme izvrsavanja:  1.03369998932
+Broj uspesnih:  10  /  10
+Najmanje vreme izvrsavanja:  0.146999835968
+Ukupno vreme:  10.4560000896
+Kraj
+
+Glup algoritam:
+Odradjeno: 90 %
+Srednji broj predjenih koraka:  301.8
+Najmanji broj predjenih koraka:  84
+Srednji Broj koraka do cilja:  45.8
+Najmanji Broj koraka do cilja:  33
+Srednji broj poteza:  66.6
+Najmanji broj poteza:  49
+Broj pronadjenih u ogranicenju od 10 s:  100.0 %
+Srednji vreme izvrsavanja:  0.00189998149872
+Broj uspesnih:  10  /  10
+Najmanje vreme izvrsavanja:  0.000999927520752
+Ukupno vreme:  0.0230000019073
+Kraj
+
+
+Ukupno vreme rada programa:  11.0709998608

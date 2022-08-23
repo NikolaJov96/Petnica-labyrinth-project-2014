@@ -1,0 +1,5 @@
+(rows+cols)/2	/2
+(rows+cols)/2	/3
+(rows+cols)/2	/4
+(rows+cols)/2	/5
+(rows+cols)/2	/6

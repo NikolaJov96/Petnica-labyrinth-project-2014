@@ -1,0 +1,854 @@
+Dimenzije: 20x20 Vidokrug: 6
+Vreme izvesavanja za:
+- A*: 0.010999917984
+- Potraga: 0.0709998607635
+- Potraga bez gledanja: 0.0
+- Glup algoritam: 0.00365000486374
+
+Potezi za:
+- A*: 26.05
+- Potraga: 50.87
+- Potraga bez gledanja: 190.1371
+- Glup algoritam: 394.570795591
+
+_ _ _ _ _ _ _ _ _ _ _ x x _ x _ x x _ _ 
+ x _ x x x x x x x x _ _ x _ x _ _ _ _ x 
+ _ _ _ _ _ _ _ _ _ x x x x _ x _ x x x x 
+ _ x _ x _ x x x _ _ _ _ _ _ _ _ _ _ _ x 
+ _ x _ x _ _ _ x x x _ x x _ x x x x _ _ 
+ _ x x x _ x _ _ _ x _ _ x _ _ _ _ x x _ 
+ _ x _ x _ x _ x _ x _ x x x x x _ _ x _ 
+ _ x _ _ _ x _ x _ x _ _ _ _ _ x _ x x _ 
+ _ x _ x _ x _ x _ x _ x _ x x x _ _ x x 
+ _ x _ x _ x x x x x _ x _ _ _ x x _ _ _ 
+ _ x _ x _ _ _ _ x _ _ x x x x x x x _ x 
+ x x _ x _ x x x x x _ _ _ _ _ _ _ x _ _ 
+ _ _ _ x _ _ _ x _ _ _ x _ x x x x x x _ 
+ x x _ x _ x _ x x _ x x _ _ _ _ _ _ x x 
+ _ _ _ x _ x x x _ _ x x _ x _ x _ x x _ 
+ _ x _ x _ _ _ x x _ x _ _ x x x _ _ _ _ 
+ x x x x _ x x x _ _ x x _ _ _ x _ x _ x 
+ _ _ _ _ _ _ _ x x _ x _ _ x x x _ x x x 
+ x x x _ x x x x _ _ x x _ x _ x x x x _ 
+ _ _ _ _ _ _ _ x _ x x _ _ _ _ _ _ _ _ _ 
+ 
+_ _ _ _ _ _ _ _ _ _ _ x x _ x _ x x _ _ 
+ x S x x x x x x x x _ _ x _ x _ _ _ _ x 
+ _ _ O O O O O O O x x x x _ x _ x x x x 
+ _ x _ x _ x x x _ O _ _ _ _ _ _ _ _ _ x 
+ _ x _ x _ _ _ x x x O x x _ x x x x _ _ 
+ _ x x x _ x _ _ _ x O _ x _ _ _ _ x x _ 
+ _ x _ x _ x _ x _ x O x x x x x _ _ x _ 
+ _ x _ _ _ x _ x _ x O _ _ _ _ x _ x x _ 
+ _ x _ x _ x _ x _ x O x _ x x x _ _ x x 
+ _ x _ x _ x x x x x O x _ _ _ x x _ _ _ 
+ _ x _ x _ _ _ _ x _ O x x x x x x x _ x 
+ x x _ x _ x x x x x O _ _ _ _ _ _ x _ _ 
+ _ _ _ x _ _ _ x _ _ O x _ x x x x x x _ 
+ x x _ x _ x _ x x O x x _ _ _ _ _ _ x x 
+ _ _ _ x _ x x x _ O x x _ x _ x _ x x _ 
+ _ x _ x _ _ _ x x O x _ _ x x x _ _ _ _ 
+ x x x x _ x x x _ O x x _ _ _ x _ x _ x 
+ _ _ _ _ _ _ _ x x O x _ _ x x x _ x x x 
+ x x x _ x x x x _ O x x _ x _ x x x x _ 
+ _ _ _ _ _ _ _ x E x x _ _ _ _ _ _ _ _ _ 
+ 
+_ _ _ _ _ _ _ _ _ _ _ x x _ x _ x x _ _ 
+ x S x x x x x x x x _ _ x _ x _ _ _ _ x 
+ _ _ O O _ O O O _ x x x x _ x _ x x x x 
+ _ x _ x O x x x O O _ _ _ _ _ _ _ _ _ x 
+ _ x _ x O _ _ x x x O x x _ x x x x _ _ 
+ _ x x x O x _ _ _ x O _ x _ _ _ _ x x _ 
+ _ x _ x O x _ x _ x O x x x x x _ _ x _ 
+ _ x _ _ O x _ x _ x O _ _ _ _ x _ x x _ 
+ _ x _ x O x _ x _ x O x _ x x x _ _ x x 
+ _ x _ x O x x x x x O x _ _ _ x x _ _ _ 
+ _ x _ x O _ _ _ x _ O x x x x x x x _ x 
+ x x _ x O x x x x x O _ _ _ _ _ _ x _ _ 
+ _ _ _ x O _ _ x _ _ O x _ x x x x x x _ 
+ x x _ x O x _ x x O x x _ _ _ _ _ _ x x 
+ _ _ _ x O x x x _ O x x _ x _ x _ x x _ 
+ _ x _ x O _ _ x x O x _ _ x x x _ _ _ _ 
+ x x x x _ x x x _ O x x _ _ _ x _ x _ x 
+ _ _ _ _ _ _ _ x x O x _ _ x x x _ x x x 
+ x x x _ x x x x O _ x x _ x _ x x x x _ 
+ _ _ _ _ _ _ _ x E x x _ _ _ _ _ _ _ _ _ 
+ 
+Dimenzije: 20x20 Vidokrug: 6
+Vreme izvesavanja za:
+- A*: 0.00799989700317
+- Potraga: 0.269000053406
+- Potraga bez gledanja: 0.0
+- Glup algoritam: 0.00693999767303
+
+Potezi za:
+- A*: 30.395
+- Potraga: 41.445
+- Potraga bez gledanja: 226.24965
+- Glup algoritam: 415.031037663
+
+_ _ _ _ _ x _ x _ _ _ _ _ _ _ _ _ _ x _ 
+ x _ x x _ _ _ _ _ x x x x _ x _ x _ _ _ 
+ _ _ _ x x x x x x x x _ x x x x x x x x 
+ _ x _ _ _ _ _ _ _ _ _ _ _ x x _ _ _ _ _ 
+ _ x _ x _ x _ x _ x _ x _ _ x _ x x x x 
+ _ x x x _ x _ x _ x _ x x _ _ _ _ _ _ _ 
+ _ _ _ x _ x x x _ x _ _ x _ x _ x x x x 
+ _ x _ x _ _ _ x _ x _ x x _ x _ _ _ _ _ 
+ _ x _ x _ x x x x x x x x _ x x _ x _ x 
+ _ x _ x _ _ _ _ _ _ _ _ x _ _ x _ x x x 
+ _ x _ x x x x x x _ x x x x x x x x _ _ 
+ _ x _ _ _ _ _ _ x _ _ _ _ _ _ _ _ _ _ x 
+ _ x x _ x _ x x x x x x x x x x x x x x 
+ _ x x _ x _ _ x _ _ _ _ _ _ _ _ _ _ _ _ 
+ _ _ x _ x _ x x _ x x x _ x x x _ x _ x 
+ _ x x _ x _ _ _ _ _ _ x _ _ _ x _ x x x 
+ _ x x _ x x _ x _ x _ x x x x x _ _ _ _ 
+ _ _ x _ x _ _ x _ x _ _ _ _ _ x x x x x 
+ _ x x _ x x _ x x x x x _ x x x _ _ _ _ 
+ _ _ x _ x _ _ _ _ _ _ x _ _ _ _ _ x x _ 
+ 
+_ _ O O O x _ x _ O E _ _ _ _ _ _ _ x _ 
+ x O x x _ O O O O x x x x _ x _ x _ _ _ 
+ O _ _ x x x x x x x x _ x x x x x x x x 
+ O x _ _ _ _ _ _ _ _ _ _ _ x x _ _ _ _ _ 
+ O x _ x _ x _ x _ x _ x _ _ x _ x x x x 
+ O x x x _ x _ x _ x _ x x _ _ _ _ _ _ _ 
+ _ O _ x _ x x x _ x _ _ x _ x _ x x x x 
+ _ x O x _ _ _ x _ x _ x x _ x _ _ _ _ _ 
+ _ x O x _ x x x x x x x x _ x x _ x _ x 
+ _ x O x _ _ _ _ _ _ _ _ x _ _ x _ x x x 
+ _ x O x x x x x x _ x x x x x x x x _ _ 
+ _ x _ O O _ _ _ x _ _ _ _ _ _ _ _ _ _ x 
+ _ x x _ x O x x x x x x x x x x x x x x 
+ _ x x _ x O _ x _ _ _ _ _ _ _ _ _ _ _ _ 
+ _ _ x _ x O x x _ S x x _ x x x _ x _ x 
+ _ x x _ x _ O O O _ _ x _ _ _ x _ x x x 
+ _ x x _ x x _ x _ x _ x x x x x _ _ _ _ 
+ _ _ x _ x _ _ x _ x _ _ _ _ _ x x x x x 
+ _ x x _ x x _ x x x x x _ x x x _ _ _ _ 
+ _ _ x _ x _ _ _ _ _ _ x _ _ _ _ _ x x _ 
+ 
+_ _ O O O x _ x _ O E _ _ _ _ _ _ _ x _ 
+ x O x x _ O O O O x x x x _ x _ x _ _ _ 
+ _ O O x x x x x x x x _ x x x x x x x x 
+ O x _ O O O _ _ _ _ _ _ _ x x _ _ _ _ _ 
+ O x _ x _ x _ x _ x _ x _ _ x _ x x x x 
+ O x x x _ x _ x _ x _ x x _ _ _ _ _ _ _ 
+ _ O _ x _ x x x _ x _ _ x _ x _ x x x x 
+ _ x O x _ _ _ x _ x _ x x _ x _ _ _ _ _ 
+ _ x O x _ x x x x x x x x _ x x _ x _ x 
+ _ x O x _ _ _ _ _ _ _ _ x _ _ x _ x x x 
+ _ x O x x x x x x _ x x x x x x x x _ _ 
+ _ x _ O O _ _ _ x _ _ _ _ _ _ _ _ _ _ x 
+ _ x x _ x O x x x x x x x x x x x x x x 
+ _ x x _ x O _ x _ O O O O O O O _ _ _ _ 
+ _ _ x _ x O x x O S x x _ x x x _ x _ x 
+ _ x x _ x _ O O _ _ _ x _ _ _ x _ x x x 
+ _ x x _ x x _ x _ x _ x x x x x _ _ _ _ 
+ _ _ x _ x _ _ x _ x _ _ _ _ _ x x x x x 
+ _ x x _ x x _ x x x x x _ x x x _ _ _ _ 
+ _ _ x _ x _ _ _ _ _ _ x _ _ _ _ _ x x _ 
+ 
+Dimenzije: 20x20 Vidokrug: 6
+Vreme izvesavanja za:
+- A*: 0.00799989700317
+- Potraga: 0.123000144958
+- Potraga bez gledanja: 0.0
+- Glup algoritam: 0.00638999223709
+
+Potezi za:
+- A*: 26.05
+- Potraga: 34.87
+- Potraga bez gledanja: 245.6695
+- Glup algoritam: 370.427848277
+
+_ _ _ x x _ _ _ _ _ x _ x x _ _ x _ x _ 
+ _ x _ _ _ _ x _ x _ _ _ _ x _ x x _ x _ 
+ _ x _ x x x x x x x x x _ _ _ _ x _ x _ 
+ _ x _ _ _ _ _ _ _ _ _ x x x x x x _ _ _ 
+ _ x _ x x x x x x x x x _ x _ x x _ x _ 
+ _ x _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ x x 
+ _ x _ x _ x _ x x x x x x x x x x _ _ _ 
+ _ x _ x x x _ _ _ _ _ _ _ _ _ _ x x x x 
+ x x _ _ _ x _ x x x x x x x x _ _ _ x _ 
+ _ _ _ x x x _ _ _ _ _ _ _ _ x x x _ _ _ 
+ x x _ x _ x x x x _ x _ x _ _ _ x _ x x 
+ _ _ _ _ _ _ _ _ x _ x _ x _ x _ x _ _ _ 
+ x _ x _ x _ x x x x x _ x _ x x x x x x 
+ _ _ x _ x _ _ _ _ _ x x x _ _ _ _ _ _ _ 
+ _ x x _ x _ x _ x _ _ _ x _ x _ x _ x x 
+ _ x _ _ x _ x _ x _ x x x x x _ x _ x _ 
+ _ x x _ x _ x _ x _ _ _ _ _ x _ x _ _ _ 
+ _ x _ _ x _ x x x _ x x _ x x _ x _ x _ 
+ _ x _ x x _ _ x _ _ _ x x x x x x x x _ 
+ _ x _ _ x _ x x _ x _ _ _ _ _ _ _ x _ _ 
+ 
+_ _ _ x x _ O O O O x _ x x _ _ x _ x _ 
+ _ x _ O O O x _ x _ O E _ x _ x x _ x _ 
+ _ x O x x x x x x x x x _ _ _ _ x _ x _ 
+ _ x O _ _ _ _ _ _ _ _ x x x x x x _ _ _ 
+ _ x O x x x x x x x x x _ x _ x x _ x _ 
+ _ x O _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ x x 
+ _ x O x _ x _ x x x x x x x x x x _ _ _ 
+ _ x O x x x _ _ _ _ _ _ _ _ _ _ x x x x 
+ x x O _ _ x _ x x x x x x x x _ _ _ x _ 
+ _ _ O x x x _ _ _ _ _ _ _ _ x x x _ _ _ 
+ x x O x _ x x x x _ x _ x _ _ _ x _ x x 
+ _ _ _ O O _ _ _ x _ x _ x _ x _ x _ _ _ 
+ x _ x _ x O x x x x x _ x _ x x x x x x 
+ _ _ x _ x O _ _ _ _ x x x _ _ _ _ _ _ _ 
+ _ x x _ x O x _ x _ _ _ x _ x _ x _ x x 
+ _ x _ _ x O x _ x _ x x x x x _ x _ x _ 
+ _ x x _ x S x _ x _ _ _ _ _ x _ x _ _ _ 
+ _ x _ _ x _ x x x _ x x _ x x _ x _ x _ 
+ _ x _ x x _ _ x _ _ _ x x x x x x x x _ 
+ _ x _ _ x _ x x _ x _ _ _ _ _ _ _ x _ _ 
+ 
+_ _ _ x x _ O O O O x _ x x _ _ x _ x _ 
+ _ x _ O O O x _ x _ O E _ x _ x x _ x _ 
+ _ x O x x x x x x x x x _ _ _ _ x _ x _ 
+ _ x O _ _ _ _ _ _ _ _ x x x x x x _ _ _ 
+ _ x O x x x x x x x x x _ x _ x x _ x _ 
+ _ x _ O O O O O _ _ _ _ _ _ _ _ _ _ x x 
+ _ x O x _ x _ x x x x x x x x x x _ _ _ 
+ _ x O x x x _ _ _ _ _ _ _ _ _ _ x x x x 
+ x x O _ _ x _ x x x x x x x x _ _ _ x _ 
+ _ _ O x x x _ _ _ _ _ _ _ _ x x x _ _ _ 
+ x x O x _ x x x x _ x _ x _ _ _ x _ x x 
+ _ _ _ O O _ _ _ x _ x _ x _ x _ x _ _ _ 
+ x _ x _ x O x x x x x _ x _ x x x x x x 
+ _ _ x _ x O _ _ _ _ x x x _ _ _ _ _ _ _ 
+ _ x x _ x O x _ x _ _ _ x _ x _ x _ x x 
+ _ x _ _ x O x _ x _ x x x x x _ x _ x _ 
+ _ x x _ x S x _ x _ _ _ _ _ x _ x _ _ _ 
+ _ x _ _ x _ x x x _ x x _ x x _ x _ x _ 
+ _ x _ x x _ _ x _ _ _ x x x x x x x x _ 
+ _ x _ _ x _ x x _ x _ _ _ _ _ _ _ x _ _ 
+ 
+Dimenzije: 20x20 Vidokrug: 6
+Vreme izvesavanja za:
+- A*: 0.00699996948242
+- Potraga: 0.0650000572205
+- Potraga bez gledanja: 0.0
+- Glup algoritam: 0.00413999080658
+
+Potezi za:
+- A*: 15.46
+- Potraga: 24.28
+- Potraga bez gledanja: 148.1142
+- Glup algoritam: 257.754578491
+
+_ _ _ _ x _ x _ x x x x _ x _ x _ x _ x 
+ x _ x _ _ _ _ _ _ x x _ _ _ _ _ _ _ _ _ 
+ _ _ x x _ x _ x _ _ x _ x x _ x x _ x x 
+ _ x x _ _ x _ x x _ _ _ _ x _ _ x x x _ 
+ _ _ x x _ x _ x x _ x x x x x x x _ x _ 
+ _ x x x x x _ _ x _ _ _ _ _ _ x x _ x _ 
+ _ _ _ _ _ x _ x x x _ x _ x _ _ _ _ _ _ 
+ _ x _ x x x x x _ x x x _ x _ x x x x _ 
+ _ x _ _ _ _ _ _ _ x _ _ _ x _ _ _ x _ _ 
+ _ x _ x _ x x x x x x x _ x _ x x x _ x 
+ _ x _ x _ _ _ _ _ _ _ x _ x _ _ _ x x x 
+ _ x x x _ x x _ x x x x _ x _ x _ _ _ _ 
+ _ _ x _ _ _ x _ _ _ _ x _ x _ x _ x x _ 
+ _ x x x _ x x x _ x _ x _ x _ x _ _ x _ 
+ _ x _ x _ _ _ x _ x _ x _ x x x x _ x _ 
+ _ _ _ x x _ x x _ x _ x _ _ _ _ x _ x _ 
+ _ x x x x _ _ x _ x x x _ x _ x x x x _ 
+ _ _ _ _ x _ x x _ x _ _ _ x _ x _ x x _ 
+ _ x _ x x _ x x _ x _ x _ x _ _ _ _ x _ 
+ _ x _ _ x _ _ x _ x _ x _ x _ x _ x x _ 
+ 
+_ _ _ _ x _ x _ x x x x _ x _ x _ x _ x 
+ x _ x _ _ _ _ _ _ x x _ _ _ _ _ _ _ _ _ 
+ _ _ x x _ x _ x _ _ x _ x x _ x x _ x x 
+ _ x x _ _ x _ x x _ _ _ _ x _ _ x x x _ 
+ _ _ x x _ x _ x x _ x x x x x x x _ x _ 
+ _ x x x x x _ _ x _ _ _ _ _ _ x x _ x _ 
+ _ S _ _ _ x _ x x x _ x _ x _ _ _ _ _ _ 
+ _ x O x x x x x _ x x x _ x _ x x x x _ 
+ _ x _ O _ _ _ _ _ x _ _ _ x _ _ _ x _ _ 
+ _ x _ x O x x x x x x x _ x _ x x x _ x 
+ _ x _ x _ O O _ _ _ _ x _ x _ _ _ x x x 
+ _ x x x _ x x O x x x x _ x _ x _ _ _ _ 
+ _ _ x _ _ _ x O _ _ _ x _ x _ x _ x x _ 
+ _ x x x _ x x x O x _ x _ x _ x _ _ x _ 
+ _ x _ x _ _ _ x O x _ x _ x x x x _ x _ 
+ _ _ _ x x _ x x O x _ x _ _ _ _ x _ x _ 
+ _ x x x x _ _ x O x x x _ x _ x x x x _ 
+ _ _ _ _ x _ x x O x _ _ _ x _ x _ x x _ 
+ _ x _ x x _ x x E x _ x _ x _ _ _ _ x _ 
+ _ x _ _ x _ _ x _ x _ x _ x _ x _ x x _ 
+ 
+_ _ _ _ x _ x _ x x x x _ x _ x _ x _ x 
+ x _ x _ _ _ _ _ _ x x _ _ _ _ _ _ _ _ _ 
+ _ _ x x _ x _ x _ _ x _ x x _ x x _ x x 
+ _ x x _ _ x _ x x _ _ _ _ x _ _ x x x _ 
+ _ _ x x _ x _ x x _ x x x x x x x _ x _ 
+ _ x x x x x _ _ x _ _ _ _ _ _ x x _ x _ 
+ _ S _ _ _ x _ x x x _ x _ x _ _ _ _ _ _ 
+ _ x O x x x x x _ x x x _ x _ x x x x _ 
+ _ x _ O _ _ _ _ _ x _ _ _ x _ _ _ x _ _ 
+ _ x _ x O x x x x x x x _ x _ x x x _ x 
+ _ x _ x O O O _ _ _ _ x _ x _ _ _ x x x 
+ _ x x x O x x O x x x x _ x _ x _ _ _ _ 
+ _ _ x _ O _ x O _ _ _ x _ x _ x _ x x _ 
+ _ x x x O x x x O x _ x _ x _ x _ _ x _ 
+ _ x _ x _ O _ x O x _ x _ x x x x _ x _ 
+ _ _ _ x x _ x x O x _ x _ _ _ _ x _ x _ 
+ _ x x x x _ _ x O x x x _ x _ x x x x _ 
+ _ _ _ _ x _ x x O x _ _ _ x _ x _ x x _ 
+ _ x _ x x _ x x E x _ x _ x _ _ _ _ x _ 
+ _ x _ _ x _ _ x _ x _ x _ x _ x _ x x _ 
+ 
+
+4
+
+Dimenzije: 40x40 Vidokrug: 13
+Vreme izvesavanja za:
+- A*: 0.0810000896454
+- Potraga: 1.01699995995
+- Potraga bez gledanja: 0.0
+- Glup algoritam: 0.0207699918747
+
+Potezi za:
+- A*: 54.675
+- Potraga: 99.825
+- Potraga bez gledanja: 841.38985
+- Glup algoritam: 1328.40049056
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ x _ _ _ x _ x _ _ _ _ _ _ _ x _ x _ x _ x _ _ _ 
+ _ x x x x x x x _ x x x _ x _ x x _ x x x _ x _ x x x x x _ _ _ x _ x _ x x x _ 
+ _ _ _ _ _ _ _ x _ _ _ x x x _ _ _ _ x _ x _ x _ x _ x _ x x x x x _ x _ x _ x _ 
+ _ x x x x _ x x x x x x _ x x _ x _ _ _ _ _ _ _ _ _ _ _ _ x _ _ x _ x _ x _ _ _ 
+ _ _ _ _ x x x x _ x _ x _ x x x x x x x x x x x x x x x x x _ x x _ _ _ x _ x x 
+ x _ x _ _ _ _ _ _ x _ x _ x _ x _ x _ x _ _ _ _ _ x _ _ _ x _ x _ _ x _ _ _ _ _ 
+ _ _ x _ x x x x x x _ _ _ _ _ _ _ _ _ _ _ x x x x x _ x x x _ _ _ x x x _ x _ x 
+ x x x _ _ _ _ _ _ _ _ x _ x x x x x x x x x _ _ _ _ _ _ _ _ _ x _ _ _ x x x _ _ 
+ _ _ _ _ x _ x _ x x x x _ _ _ _ _ _ _ _ _ _ _ x x x _ x _ x _ x _ x _ _ _ x x x 
+ _ x _ x x x x _ _ _ _ x x x _ x _ x _ x x x _ _ _ x x x x x _ x _ x _ x _ _ _ _ 
+ _ x _ _ _ x x x _ x _ _ x _ _ x _ x _ _ _ x x x _ _ _ _ x x x x _ x _ x x x _ x 
+ _ x _ x _ _ _ x x x x x x x _ x _ x _ x _ _ _ x x _ x x x _ _ x _ x _ _ _ x _ _ 
+ _ x _ x _ x _ _ _ _ _ _ _ x _ x _ x x x _ x _ _ x _ _ _ _ _ x x x x _ x _ x _ x 
+ _ x _ x _ x _ x _ x _ x _ x _ x _ _ _ x _ x _ x x _ x x x _ _ _ _ x _ x x x _ x 
+ x x _ x _ x _ x x x x x x x x x _ x _ x _ x x x _ _ _ _ x x x x x x _ _ _ x _ _ 
+ _ _ _ x _ x _ x _ _ _ _ _ _ _ x x x _ x _ _ x x x x _ x x x _ _ _ x _ x x x x x 
+ _ x _ x _ x _ _ _ x _ x _ x _ _ _ x x x x _ _ x _ x _ _ _ _ _ x x x _ _ _ _ _ _ 
+ _ x _ x _ x _ x x x x x x x x x _ _ x _ x x x x _ x x x x x _ _ _ x x x x x x _ 
+ _ x x x _ x _ _ _ _ _ _ _ _ _ x x _ _ _ _ _ _ _ _ _ _ _ _ x x x _ _ _ _ _ _ x x 
+ _ _ x _ _ x x _ x x x x x x _ _ x _ x _ x _ x x _ x _ x _ _ _ x _ x _ x x _ _ _ 
+ _ x x x _ x _ _ _ _ _ _ _ x x _ x _ x _ x _ _ x _ x x x _ x x x _ x _ x x x _ x 
+ _ x x _ _ x _ x _ x _ x _ _ x x x x x _ x _ x x x x _ x _ _ _ x _ x _ _ x _ _ _ 
+ _ x _ _ x x _ x x x x x x _ x _ x _ x x x _ _ _ _ x _ x _ x _ x x x x x x x _ x 
+ x x _ x x x _ _ _ _ _ _ x _ _ _ x _ _ _ x _ x x _ _ _ x _ x _ _ _ _ x _ _ x _ _ 
+ _ _ _ x _ _ _ x x _ x x x _ x _ _ _ x _ x _ _ x x _ x x x x x _ x _ _ _ x x x x 
+ x x _ x x _ x x _ _ _ _ x _ x _ x _ x x x x x x x x x _ x _ x x x x x x x _ x _ 
+ _ _ _ x _ _ _ x _ x x x x _ x _ x _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+ _ x x x x x _ x _ _ _ x x _ x _ x _ x _ x x _ x _ x _ x x _ x _ x x x _ x x x x 
+ _ x _ _ _ _ _ x _ x _ _ x _ x x x _ x _ _ x _ x _ x _ _ x _ x _ _ x _ _ _ _ _ x 
+ _ x _ x _ x _ x x x x _ x _ _ x _ _ x _ x x _ x _ x x x x _ x _ x x x x _ x _ _ 
+ x x x x _ x _ _ x _ x x x x x x x _ x x x x x x _ _ _ x _ _ x _ _ _ x x _ x _ x 
+ _ _ _ _ _ x x _ _ _ _ x _ x _ _ x _ _ _ _ _ _ x x _ x x x _ x _ x _ _ x _ x x x 
+ x x _ x x x _ _ x _ x x _ _ _ x x x _ x _ x _ x _ _ _ _ x x x _ x _ x x _ _ _ _ 
+ _ _ _ x _ _ _ x x _ _ _ _ x _ _ _ x _ x _ x _ x x _ x _ _ _ x _ x _ x _ _ x _ x 
+ x x _ x x x x x _ _ x _ x x x x x x x x x x x x _ _ x _ x x x _ x _ x x _ x _ _ 
+ _ _ _ x _ _ _ _ _ x x _ _ _ _ _ _ _ x _ x _ _ x x x x _ _ _ x x x x x x _ x x _ 
+ x _ x x _ x _ x x x x _ x x _ x x x x _ x _ x x _ x x _ x _ _ _ _ _ _ x _ x x x 
+ x x x _ _ x _ x _ _ _ _ _ x x x _ _ x _ _ _ _ _ _ _ x _ x _ x _ x _ x x _ _ _ _ 
+ x _ x x _ x x x _ x _ x _ _ _ x x _ x _ x x x x x x x x x _ x x x x x x x x x x 
+ _ _ _ _ _ x _ _ _ x _ x _ x _ _ _ _ _ _ _ _ _ _ _ _ _ _ x _ _ _ _ _ _ _ _ _ _ _ 
+ 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ x _ _ _ x _ x _ _ _ _ _ _ _ x _ x _ x _ x _ _ _ 
+ _ x x x x x x x _ x x x _ x _ x x _ x x x _ x _ x x x x x _ _ _ x _ x _ x x x _ 
+ _ _ _ _ _ _ _ x _ _ _ x x x _ _ _ _ x _ x _ x _ x _ x _ x x x x x _ x _ x _ x _ 
+ _ x x x x _ x x x x x x _ x x _ x _ _ _ _ _ _ _ _ _ _ _ _ x _ _ x _ x _ x _ _ _ 
+ _ _ _ _ x x x S _ x _ x _ x x x x x x x x x x x x x x x x x _ x x _ _ _ x _ x x 
+ x _ x _ O O O _ _ x _ x _ x _ x _ x _ x _ _ _ _ _ x _ _ _ x _ x _ _ x _ _ _ _ _ 
+ _ _ x O x x x x x x _ _ _ _ _ _ _ _ _ _ _ x x x x x _ x x x _ _ _ x x x _ x _ x 
+ x x x O _ _ _ _ _ _ _ x _ x x x x x x x x x _ _ _ _ _ _ _ _ _ x _ _ _ x x x _ _ 
+ _ _ _ O x _ x _ x x x x _ _ _ _ _ _ _ _ _ _ _ x x x _ x _ x _ x _ x _ _ _ x x x 
+ _ x O x x x x _ _ _ _ x x x _ x _ x _ x x x _ _ _ x x x x x _ x _ x _ x _ _ _ _ 
+ _ x _ O O x x x _ x _ _ x _ _ x _ x _ _ _ x x x _ _ _ _ x x x x _ x _ x x x _ x 
+ _ x _ x _ O _ x x x x x x x _ x _ x _ x _ _ _ x x _ x x x _ _ x _ x _ _ _ x _ _ 
+ _ x _ x _ x O _ _ _ _ _ _ x _ x _ x x x _ x _ _ x _ _ _ _ _ x x x x _ x _ x _ x 
+ _ x _ x _ x O x _ x _ x _ x _ x _ _ _ x _ x _ x x _ x x x _ _ _ _ x _ x x x _ x 
+ x x _ x _ x O x x x x x x x x x _ x _ x _ x x x _ _ _ _ x x x x x x _ _ _ x _ _ 
+ _ _ _ x _ x O x _ _ _ _ _ _ _ x x x _ x _ _ x x x x _ x x x _ _ _ x _ x x x x x 
+ _ x _ x _ x O _ _ x _ x _ x _ _ _ x x x x _ _ x _ x _ _ _ _ _ x x x _ _ _ _ _ _ 
+ _ x _ x _ x O x x x x x x x x x _ _ x _ x x x x _ x x x x x _ _ _ x x x x x x _ 
+ _ x x x _ x O _ _ _ _ _ _ _ _ x x _ _ _ _ _ _ _ _ _ _ _ _ x x x _ _ _ _ _ _ x x 
+ _ _ x _ _ x x O x x x x x x _ _ x _ x _ x _ x x _ x _ x _ _ _ x _ x _ x x _ _ _ 
+ _ x x x _ x _ O _ _ _ _ _ x x _ x _ x _ x _ _ x _ x x x _ x x x _ x _ x x x _ x 
+ _ x x _ _ x O x _ x _ x _ _ x x x x x _ x _ x x x x _ x _ _ _ x _ x _ _ x _ _ _ 
+ _ x _ _ x x O x x x x x x _ x _ x _ x x x _ _ _ _ x _ x _ x _ x x x x x x x _ x 
+ x x _ x x x O _ _ _ _ _ x _ _ _ x _ _ _ x _ x x _ _ _ x _ x _ _ _ _ x _ _ x _ _ 
+ _ _ _ x _ _ O x x _ x x x _ x _ _ _ x _ x _ _ x x _ x x x x x _ x _ _ _ x x x x 
+ x x _ x x O x x _ _ _ _ x _ x _ x _ x x x x x x x x x _ x _ x x x x x x x _ x _ 
+ _ _ _ x _ O _ x _ x x x x _ x _ x _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+ _ x x x x x O x _ _ _ x x _ x _ x _ x _ x x _ x _ x _ x x _ x _ x x x _ x x x x 
+ _ x _ _ _ _ O x _ x _ _ x _ x x x _ x _ _ x _ x _ x _ _ x _ x _ _ x _ _ _ _ _ x 
+ _ x _ x _ x O x x x x _ x _ _ x _ _ x _ x x _ x _ x x x x _ x _ x x x x _ x _ _ 
+ x x x x _ x _ O x _ x x x x x x x _ x x x x x x _ _ _ x _ _ x _ _ _ x x _ x _ x 
+ _ _ _ _ _ x x _ O _ _ x _ x _ _ x _ _ _ _ _ _ x x _ x x x _ x _ x _ _ x _ x x x 
+ x x _ x x x _ _ x O x x _ _ _ x x x _ x _ x _ x _ _ _ _ x x x _ x _ x x _ _ _ _ 
+ _ _ _ x _ _ _ x x _ O _ _ x _ _ _ x _ x _ x _ x x _ x _ _ _ x _ x _ x _ _ x _ x 
+ x x _ x x x x x _ _ x O x x x x x x x x x x x x _ _ x _ x x x _ x _ x x _ x _ _ 
+ _ _ _ x _ _ _ _ _ x x O _ _ _ _ _ _ x _ x _ _ x x x x _ _ _ x x x x x x _ x x _ 
+ x _ x x _ x _ x x x x O x x _ x x x x _ x _ x x _ x x _ x _ _ _ _ _ _ x _ x x x 
+ x x x _ _ x _ x _ _ _ _ O x x x _ _ x _ _ _ _ _ _ _ x _ x _ x _ x _ x x _ _ _ _ 
+ x _ x x _ x x x _ x _ x _ O O x x _ x _ x x x x x x x x x _ x x x x x x x x x x 
+ _ _ _ _ _ x _ _ _ x _ x _ x _ O O O O O O O O O E _ _ _ x _ _ _ _ _ _ _ _ _ _ _ 
+ 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ x _ _ _ x _ x _ _ _ _ _ _ _ x _ x _ x _ x _ _ _ 
+ _ x x x x x x x _ x x x _ x _ x x _ x x x _ x _ x x x x x _ _ _ x _ x _ x x x _ 
+ _ _ _ _ _ _ _ x _ _ _ x x x _ _ _ _ x _ x _ x _ x _ x _ x x x x x _ x _ x _ x _ 
+ _ x x x x _ x x x x x x _ x x _ x _ _ _ _ _ _ _ _ _ _ _ _ x _ _ x _ x _ x _ _ _ 
+ _ _ _ _ x x x S _ x _ x _ x x x x x x x x x x x x x x x x x _ x x _ _ _ x _ x x 
+ x _ x _ O O O _ _ x _ x _ x _ x _ x _ x _ _ _ _ _ x _ _ _ x _ x _ _ x _ _ _ _ _ 
+ _ _ x O x x x x x x _ _ _ _ _ _ _ _ _ _ _ x x x x x _ x x x _ _ _ x x x _ x _ x 
+ x x x O _ _ _ _ _ _ _ x _ x x x x x x x x x _ _ _ _ _ _ _ _ _ x _ _ _ x x x _ _ 
+ _ _ _ O x _ x _ x x x x _ _ _ _ _ _ _ _ _ _ _ x x x _ x _ x _ x _ x _ _ _ x x x 
+ _ x O x x x x _ _ _ _ x x x _ x _ x _ x x x _ _ _ x x x x x _ x _ x _ x _ _ _ _ 
+ _ x _ O _ x x x _ x _ _ x _ _ x _ x _ _ _ x x x _ _ _ _ x x x x _ x _ x x x _ x 
+ _ x _ x O O _ x x x x x x x _ x _ x _ x _ _ _ x x _ x x x _ _ x _ x _ _ _ x _ _ 
+ _ x _ x _ x O _ _ _ _ _ _ x _ x _ x x x _ x _ _ x _ _ _ _ _ x x x x _ x _ x _ x 
+ _ x _ x _ x O x _ x _ x _ x _ x _ _ _ x _ x _ x x _ x x x _ _ _ _ x _ x x x _ x 
+ x x _ x _ x O x x x x x x x x x _ x _ x _ x x x _ _ _ _ x x x x x x _ _ _ x _ _ 
+ _ _ _ x _ x O x _ _ _ _ _ _ _ x x x _ x _ _ x x x x _ x x x _ _ _ x _ x x x x x 
+ _ x _ x _ x O _ _ x _ x _ x _ _ _ x x x x _ _ x _ x _ _ _ _ _ x x x _ _ _ _ _ _ 
+ _ x _ x _ x O x x x x x x x x x _ _ x _ x x x x _ x x x x x _ _ _ x x x x x x _ 
+ _ x x x _ x _ O _ _ _ _ _ _ _ x x _ _ _ _ _ _ _ _ _ _ _ _ x x x _ _ _ _ _ _ x x 
+ _ _ x _ _ x x O x x x x x x _ _ x _ x _ x _ x x _ x _ x _ _ _ x _ x _ x x _ _ _ 
+ _ x x x _ x _ O O O O O _ x x _ x _ x _ x _ _ x _ x x x _ x x x _ x _ x x x _ x 
+ _ x x _ _ x O x _ x _ x O _ x x x x x _ x _ x x x x _ x _ _ _ x _ x _ _ x _ _ _ 
+ _ x _ _ x x O x x x x x x O x _ x _ x x x _ _ _ _ x _ x _ x _ x x x x x x x _ x 
+ x x _ x x x O _ _ _ _ _ x _ O _ x _ _ _ x _ x x _ _ _ x _ x _ _ _ _ x _ _ x _ _ 
+ _ _ _ x _ _ O x x _ x x x _ x O O _ x _ x _ _ x x _ x x x x x _ x _ _ _ x x x x 
+ x x _ x x O x x _ _ _ _ x _ x _ x O x x x x x x x x x _ x _ x x x x x x x _ x _ 
+ _ _ _ x _ _ O x _ x x x x _ x _ x _ O O O O O O _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+ _ x x x x x O x _ _ _ x x _ x _ x _ x _ x x _ x O x _ x x _ x _ x x x _ x x x x 
+ _ x _ _ _ _ O x _ x _ _ x _ x x x _ x _ _ x _ x O x _ _ x _ x _ _ x _ _ _ _ _ x 
+ _ x _ x _ x O x x x x _ x _ _ x _ _ x _ x x _ x O x x x x _ x _ x x x x _ x _ _ 
+ x x x x _ x _ O x _ x x x x x x x _ x x x x x x O _ _ x _ _ x _ _ _ x x _ x _ x 
+ _ _ _ _ _ x x _ O _ _ x _ x _ _ x _ _ _ _ _ _ x x _ x x x _ x _ x _ _ x _ x x x 
+ x x _ x x x _ _ x O x x _ _ _ x x x _ x _ x _ x _ _ _ _ x x x _ x _ x x _ _ _ _ 
+ _ _ _ x _ _ _ x x _ O _ _ x _ _ _ x _ x _ x _ x x _ x _ _ _ x _ x _ x _ _ x _ x 
+ x x _ x x x x x _ _ x O x x x x x x x x x x x x _ _ x _ x x x _ x _ x x _ x _ _ 
+ _ _ _ x _ _ _ _ _ x x O _ _ _ _ _ _ x _ x _ _ x x x x _ _ _ x x x x x x _ x x _ 
+ x _ x x _ x _ x x x x O x x _ x x x x _ x _ x x _ x x _ x _ _ _ _ _ _ x _ x x x 
+ x x x _ _ x _ x _ _ _ _ O x x x _ _ x _ _ _ _ _ _ _ x _ x _ x _ x _ x x _ _ _ _ 
+ x _ x x _ x x x _ x _ x _ O O x x _ x _ x x x x x x x x x _ x x x x x x x x x x 
+ _ _ _ _ _ x _ _ _ x _ x _ x _ O O O O O O O O O E _ _ _ x _ _ _ _ _ _ _ _ _ _ _ 
+ 
+Dimenzije: 40x40 Vidokrug: 13
+Vreme izvesavanja za:
+- A*: 0.0980000495911
+- Potraga: 7.632999897
+- Potraga bez gledanja: 0.0
+- Glup algoritam: 0.0168899965286
+
+Potezi za:
+- A*: 53.29
+- Potraga: 71.545
+- Potraga bez gledanja: 768.76065
+- Glup algoritam: 986.463175134
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ x _ x x _ x _ _ _ _ x _ x _ x x _ x _ x x _ _ _ _ 
+ x _ x x x x x x _ x _ x _ x _ _ _ _ x _ x _ x x x x _ x _ _ _ _ _ _ _ _ _ x x _ 
+ _ _ _ _ _ _ _ x _ x x x x x x _ x _ _ _ _ _ _ x _ x _ x _ x x x x _ x _ x x x _ 
+ x _ x x _ x x x _ _ _ _ _ _ x x x x x x x x x x _ x _ x _ _ _ _ x x x x x _ x _ 
+ _ _ _ x x x _ x _ x x x x _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ x x x x _ _ _ _ _ x x 
+ _ x _ _ _ _ _ x _ _ _ x x x x x x x x x _ x _ x x x x x _ _ _ _ _ _ x x x x x _ 
+ _ x x _ x x x x _ x _ _ _ _ _ _ _ _ _ x _ x _ _ _ _ _ x _ x x _ x _ _ _ x _ x _ 
+ _ x _ _ _ _ _ x _ x _ x _ x _ x _ x _ x _ x _ x x x x x _ _ x _ x _ x _ _ _ _ _ 
+ _ x x _ x x x x x x x x x x x x x x x x x x _ _ _ _ x x x x x x x x x x _ x _ x 
+ _ x _ _ _ _ _ _ _ _ _ _ _ _ _ x _ x x _ x x x _ x _ _ _ _ _ _ _ _ _ _ x _ x _ _ 
+ _ x _ x x x x x _ x x x _ x x x _ _ _ _ _ x x x x x x x x _ x _ x x x x x x x x 
+ _ x _ _ _ _ _ x _ _ _ x _ _ x _ _ x x x _ _ _ _ _ _ _ _ x x x _ _ _ _ _ x x _ _ 
+ _ x _ x _ x x x x x x x x x x _ x x _ x x x x x x x x x x _ x x x x x _ _ x x _ 
+ _ x x x _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ x x _ _ _ _ 
+ _ _ _ x _ x _ x x _ x _ x _ x x x x _ x x x x _ x x x x x _ x x _ x x x _ x x x 
+ _ x _ x x x _ _ x _ x _ x _ _ _ _ x _ _ _ _ x _ _ _ x _ x x x x _ _ _ x _ _ _ _ 
+ _ x _ _ _ x _ x x _ x _ x x x x x x x x x x x x x x x _ _ _ _ x x x x x x x x x 
+ _ x x _ x x x x x _ x _ _ _ _ _ _ _ _ _ _ _ _ x _ x x _ x x x x _ _ _ _ _ _ _ x 
+ _ _ x _ _ _ x _ x _ x _ x _ x _ x x x x x x _ _ _ _ _ _ _ _ _ x _ x x x x x _ _ 
+ _ x x _ x _ _ _ x x x _ x _ x _ _ _ _ _ _ x x x x x _ x _ x _ _ _ _ _ _ _ x _ x 
+ _ x _ _ x _ x _ _ _ x _ x _ x _ x x _ x _ _ _ _ _ x _ x _ x _ x _ x _ x x x x x 
+ _ x x _ x x x _ x _ x _ x x x _ x _ _ x _ x x x x x x x x x _ x _ x _ _ _ _ x _ 
+ _ x _ _ _ x _ _ x _ x _ _ _ x _ x _ x x _ _ _ _ _ x x _ x x x x x x x x x x x _ 
+ _ x x x _ x _ x x _ x x x x x x x _ _ x _ x x x _ _ _ _ _ _ _ _ _ _ _ _ _ _ x _ 
+ _ x _ _ _ x _ _ x _ _ _ _ _ _ _ x _ x x _ _ _ x _ x _ x _ x x x x x x x x x x _ 
+ _ x _ x _ x _ x x _ x x x x _ x x _ _ x x _ x x _ x _ x _ _ _ _ _ _ _ _ _ _ _ _ 
+ _ x _ x _ x _ _ x _ _ _ _ x _ x x x _ x x _ x x x x _ x _ x _ x x x x x _ x _ x 
+ _ x x x _ x _ x x x _ x x x _ _ _ x _ _ x _ _ _ _ x _ x _ x _ _ _ _ x x x x x x 
+ _ x _ _ _ x _ _ x _ _ _ x x x _ x x _ x x _ x x _ x _ x _ x x _ x _ _ _ _ _ _ _ 
+ _ x _ x _ x _ x x _ x _ x _ x _ _ x _ _ x _ _ x _ x _ x _ _ x _ x _ x _ x _ x x 
+ _ x _ x x x _ _ x _ x _ _ _ x x x x _ x x x _ x _ x _ x _ x x _ x _ x _ x _ _ _ 
+ _ x _ x _ _ _ x x _ x _ x _ _ _ _ x _ _ _ x _ x _ x _ x x x _ _ x _ x _ x _ x _ 
+ _ x x x x _ x x _ _ x _ x _ x _ x x x x x x x x _ x _ x _ x x x x _ x _ x _ x _ 
+ _ _ _ x _ _ x _ _ x x _ x _ x _ _ _ _ _ _ _ x _ _ x _ _ _ _ _ _ x _ x _ x _ x _ 
+ _ x _ x x x x x _ x _ _ x _ x _ x _ x _ x _ x x _ x _ x x _ x _ x _ x _ x _ x _ 
+ _ x x x _ x _ _ _ x x _ x _ x x x x x x x x x _ _ x _ _ x _ x _ x _ x _ x x x _ 
+ _ _ x _ _ _ _ x x x _ _ x _ _ x _ x _ _ _ _ x _ x x _ x x x x _ x _ x _ x _ _ _ 
+ _ x x x _ x _ _ x x x _ x x _ _ _ _ _ x x x x _ _ x _ _ _ _ x _ x _ x _ x _ x _ 
+ _ _ x _ _ x x _ _ x _ _ x _ _ x _ x _ _ _ _ x x x x x x x x x x x _ x _ x _ x _ 
+ _ x x x _ _ x x _ x x _ x _ x x _ x _ x x _ _ _ _ _ _ _ _ _ _ x _ _ x _ x _ x _ 
+ 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ x _ x x _ x _ _ _ _ x _ x _ x x _ x _ x x _ _ _ _ 
+ x _ x x x x x x _ x _ x _ x _ _ _ _ x _ x _ x x x x _ x _ _ _ _ _ _ _ _ _ x x _ 
+ _ _ _ _ _ _ _ x _ x x x x x x _ x _ _ _ _ _ _ x _ x _ x _ x x x x _ x _ x x x _ 
+ x _ x x _ x x x _ _ _ _ _ _ x x x x x x x x x x _ x _ x _ _ _ _ x x x x x _ x _ 
+ _ _ _ x x x _ x _ x x x x _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ x x x x _ _ _ _ _ x x 
+ _ x _ _ _ _ _ x _ _ _ x x x x x x x x x _ x _ x x x x x _ _ _ _ _ _ x x x x x _ 
+ _ x x _ x x x x _ x _ _ _ _ _ _ _ _ _ x _ x _ _ _ _ _ x _ x x _ x _ _ _ x _ x _ 
+ _ x _ _ O O O S _ x _ x _ x _ x _ x _ x _ x _ x x x x x _ _ x _ x _ x _ _ _ _ _ 
+ _ x x O x x x x x x x x x x x x x x x x x x _ _ _ _ x x x x x x x x x x _ x _ x 
+ _ x _ O _ _ _ _ _ _ _ _ _ _ _ x _ x x _ x x x _ x _ _ _ _ _ _ _ _ _ _ x _ x _ _ 
+ _ x O x x x x x _ x x x _ x x x _ _ _ _ _ x x x x x x x x _ x _ x x x x x x x x 
+ _ x _ O _ _ _ x _ _ _ x _ _ x _ _ x x x _ _ _ _ _ _ _ _ x x x _ _ _ _ _ x x _ _ 
+ _ x _ x O x x x x x x x x x x _ x x _ x x x x x x x x x x _ x x x x x _ _ x x _ 
+ _ x x x _ O O O O O O _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ x x _ _ _ _ 
+ _ _ _ x _ x _ x x _ x O x _ x x x x _ x x x x _ x x x x x _ x x _ x x x _ x x x 
+ _ x _ x x x _ _ x _ x O x _ _ _ _ x _ _ _ _ x _ _ _ x _ x x x x _ _ _ x _ _ _ _ 
+ _ x _ _ _ x _ x x _ x O x x x x x x x x x x x x x x x _ _ _ _ x x x x x x x x x 
+ _ x x _ x x x x x _ x _ O O O _ _ _ _ _ _ _ _ x _ x x _ x x x x _ _ _ _ _ _ _ x 
+ _ _ x _ _ _ x _ x _ x _ x _ x O x x x x x x _ _ _ _ _ _ _ _ _ x _ x x x x x _ _ 
+ _ x x _ x _ _ _ x x x _ x _ x _ O O O O _ x x x x x _ x _ x _ _ _ _ _ _ _ x _ x 
+ _ x _ _ x _ x _ _ _ x _ x _ x _ x x _ x O _ _ _ _ x _ x _ x _ x _ x _ x x x x x 
+ _ x x _ x x x _ x _ x _ x x x _ x _ _ x O x x x x x x x x x _ x _ x _ _ _ _ x _ 
+ _ x _ _ _ x _ _ x _ x _ _ _ x _ x _ x x _ O O O O x x _ x x x x x x x x x x x _ 
+ _ x x x _ x _ x x _ x x x x x x x _ _ x _ x x x _ O O O _ _ _ _ _ _ _ _ _ _ x _ 
+ _ x _ _ _ x _ _ x _ _ _ _ _ _ _ x _ x x _ _ _ x _ x _ x O x x x x x x x x x x _ 
+ _ x _ x _ x _ x x _ x x x x _ x x _ _ x x _ x x _ x _ x _ O _ _ _ _ _ _ _ _ _ _ 
+ _ x _ x _ x _ _ x _ _ _ _ x _ x x x _ x x _ x x x x _ x _ x O x x x x x _ x _ x 
+ _ x x x _ x _ x x x _ x x x _ _ _ x _ _ x _ _ _ _ x _ x _ x _ O O O x x x x x x 
+ _ x _ _ _ x _ _ x _ _ _ x x x _ x x _ x x _ x x _ x _ x _ x x _ x _ O O O _ _ _ 
+ _ x _ x _ x _ x x _ x _ x _ x _ _ x _ _ x _ _ x _ x _ x _ _ x _ x _ x _ x O x x 
+ _ x _ x x x _ _ x _ x _ _ _ x x x x _ x x x _ x _ x _ x _ x x _ x _ x _ x _ O E 
+ _ x _ x _ _ _ x x _ x _ x _ _ _ _ x _ _ _ x _ x _ x _ x x x _ _ x _ x _ x _ x _ 
+ _ x x x x _ x x _ _ x _ x _ x _ x x x x x x x x _ x _ x _ x x x x _ x _ x _ x _ 
+ _ _ _ x _ _ x _ _ x x _ x _ x _ _ _ _ _ _ _ x _ _ x _ _ _ _ _ _ x _ x _ x _ x _ 
+ _ x _ x x x x x _ x _ _ x _ x _ x _ x _ x _ x x _ x _ x x _ x _ x _ x _ x _ x _ 
+ _ x x x _ x _ _ _ x x _ x _ x x x x x x x x x _ _ x _ _ x _ x _ x _ x _ x x x _ 
+ _ _ x _ _ _ _ x x x _ _ x _ _ x _ x _ _ _ _ x _ x x _ x x x x _ x _ x _ x _ _ _ 
+ _ x x x _ x _ _ x x x _ x x _ _ _ _ _ x x x x _ _ x _ _ _ _ x _ x _ x _ x _ x _ 
+ _ _ x _ _ x x _ _ x _ _ x _ _ x _ x _ _ _ _ x x x x x x x x x x x _ x _ x _ x _ 
+ _ x x x _ _ x x _ x x _ x _ x x _ x _ x x _ _ _ _ _ _ _ _ _ _ x _ _ x _ x _ x _ 
+ 
+_ _ O O O O O O _ _ _ _ _ _ _ x _ x x _ x _ _ _ _ x _ x _ x x _ x _ x x _ _ _ _ 
+ x O x x x x x x O x _ x _ x _ _ _ _ x _ x _ x x x x _ x _ _ _ _ _ _ _ _ _ x x _ 
+ _ O _ _ _ _ _ x O x x x x x x _ x _ _ _ _ _ _ x _ x _ x _ x x x x _ x _ x x x _ 
+ x O x x _ x x x _ O O O O _ x x x x x x x x x x _ x _ x _ _ _ _ x x x x x _ x _ 
+ _ _ O x x x _ x O x x x x O O O O O O O O O O O O O O O _ x x x x _ _ _ _ _ x x 
+ _ x _ O _ _ _ x O _ _ x x x x x x x x x _ x O x x x x x _ _ _ _ _ _ x x x x x _ 
+ _ x x O x x x x O x _ _ _ _ _ _ _ _ _ x _ x O _ _ _ _ x _ x x _ x _ _ _ x _ x _ 
+ _ x _ O _ _ _ S _ x _ x _ x _ x _ x _ x _ x O x x x x x _ _ x _ x _ x _ _ _ _ _ 
+ _ x x O x x x x x x x x x x x x x x x x x x _ O O _ x x x x x x x x x x _ x _ x 
+ _ x _ O _ _ _ _ _ _ _ _ _ _ _ x _ x x _ x x x _ x O O O O O _ _ _ _ _ x _ x _ _ 
+ _ x O x x x x x _ x x x _ x x x _ _ _ _ _ x x x x x x x x _ x _ x x x x x x x x 
+ _ x _ O _ _ _ x _ _ _ x _ _ x _ _ x x x _ _ _ _ _ _ _ _ x x x _ _ _ _ _ x x _ _ 
+ _ x _ x O x x x x x x x x x x _ x x _ x x x x x x x x x x _ x x x x x _ _ x x _ 
+ _ x x x _ O O O O O O _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ x x _ _ _ _ 
+ _ _ _ x _ x _ x x _ x O x _ x x x x _ x x x x _ x x x x x _ x x _ x x x _ x x x 
+ _ x _ x x x _ _ x _ x O x _ _ _ _ x _ _ _ _ x _ _ _ x _ x x x x _ _ _ x _ _ _ _ 
+ _ x _ _ _ x _ x x _ x O x x x x x x x x x x x x x x x _ _ _ _ x x x x x x x x x 
+ _ x x _ x x x x x _ x _ O O O _ _ _ _ _ _ _ _ x _ x x _ x x x x _ _ _ _ _ _ _ x 
+ _ _ x _ _ _ x _ x _ x _ x _ x O x x x x x x _ _ _ _ _ _ _ _ _ x _ x x x x x _ _ 
+ _ x x _ x _ _ _ x x x _ x _ x _ O O O O _ x x x x x _ x _ x _ _ _ _ _ _ _ x _ x 
+ _ x _ _ x _ x _ _ _ x _ x _ x _ x x _ x O _ _ _ _ x _ x _ x _ x _ x _ x x x x x 
+ _ x x _ x x x _ x _ x _ x x x _ x _ _ x O x x x x x x x x x _ x _ x _ _ _ _ x _ 
+ _ x _ _ _ x _ _ x _ x _ _ _ x _ x _ x x _ O O O _ x x _ x x x x x x x x x x x _ 
+ _ x x x _ x _ x x _ x x x x x x x _ _ x _ x x x O O O O _ _ _ _ _ _ _ _ _ _ x _ 
+ _ x _ _ _ x _ _ x _ _ _ _ _ _ _ x _ x x _ _ _ x _ x _ x O x x x x x x x x x x _ 
+ _ x _ x _ x _ x x _ x x x x _ x x _ _ x x _ x x _ x _ x _ O _ _ _ _ _ _ _ _ _ _ 
+ _ x _ x _ x _ _ x _ _ _ _ x _ x x x _ x x _ x x x x _ x _ x O x x x x x _ x _ x 
+ _ x x x _ x _ x x x _ x x x _ _ _ x _ _ x _ _ _ _ x _ x _ x _ O O O x x x x x x 
+ _ x _ _ _ x _ _ x _ _ _ x x x _ x x _ x x _ x x _ x _ x _ x x _ x _ O O O _ _ _ 
+ _ x _ x _ x _ x x _ x _ x _ x _ _ x _ _ x _ _ x _ x _ x _ _ x _ x _ x _ x O x x 
+ _ x _ x x x _ _ x _ x _ _ _ x x x x _ x x x _ x _ x _ x _ x x _ x _ x _ x _ O E 
+ _ x _ x _ _ _ x x _ x _ x _ _ _ _ x _ _ _ x _ x _ x _ x x x _ _ x _ x _ x _ x _ 
+ _ x x x x _ x x _ _ x _ x _ x _ x x x x x x x x _ x _ x _ x x x x _ x _ x _ x _ 
+ _ _ _ x _ _ x _ _ x x _ x _ x _ _ _ _ _ _ _ x _ _ x _ _ _ _ _ _ x _ x _ x _ x _ 
+ _ x _ x x x x x _ x _ _ x _ x _ x _ x _ x _ x x _ x _ x x _ x _ x _ x _ x _ x _ 
+ _ x x x _ x _ _ _ x x _ x _ x x x x x x x x x _ _ x _ _ x _ x _ x _ x _ x x x _ 
+ _ _ x _ _ _ _ x x x _ _ x _ _ x _ x _ _ _ _ x _ x x _ x x x x _ x _ x _ x _ _ _ 
+ _ x x x _ x _ _ x x x _ x x _ _ _ _ _ x x x x _ _ x _ _ _ _ x _ x _ x _ x _ x _ 
+ _ _ x _ _ x x _ _ x _ _ x _ _ x _ x _ _ _ _ x x x x x x x x x x x _ x _ x _ x _ 
+ _ x x x _ _ x x _ x x _ x _ x x _ x _ x x _ _ _ _ _ _ _ _ _ _ x _ _ x _ x _ x _ 
+ 
+Dimenzije: 40x40 Vidokrug: 13
+Vreme izvesavanja za:
+- A*: 0.124000072479
+- Potraga: 16.4589998722
+- Potraga bez gledanja: 0.0
+- Glup algoritam: 0.0144999861717
+
+Potezi za:
+- A*: 53.625
+- Potraga: 75.035
+- Potraga bez gledanja: 1105.95765
+- Glup algoritam: 1193.66182254
+
+_ _ _ _ _ x x _ x _ _ _ x x _ _ _ _ _ _ _ _ _ x _ x _ x _ _ _ _ _ _ _ x _ x _ _ 
+ _ x _ x _ _ _ _ _ _ x _ _ _ _ x x _ x _ x _ x x _ x _ _ _ x x x x x x x _ x _ x 
+ _ x _ x _ x _ x x _ x x x x x x x x x x x _ _ _ _ _ _ x _ _ _ _ _ _ _ _ _ _ _ x 
+ _ x _ x _ x _ _ x _ _ _ _ _ x _ _ _ x _ x _ x x x x x x x _ x x _ x x x x x _ _ 
+ _ x x x _ x _ x x _ x x x _ _ _ x x x _ x x x _ _ _ _ _ x _ _ x _ _ _ _ _ x x _ 
+ _ _ _ x _ x _ _ x _ _ _ x _ x _ _ _ _ _ _ _ _ _ x _ x x x _ x x _ x _ x _ _ x _ 
+ x _ x x _ x x _ x _ x x x x x x x x x x x _ x _ x _ x _ x x x x x x x x x _ x _ 
+ _ _ _ x _ _ x _ x _ _ _ x x _ _ _ _ _ _ x _ x _ x _ _ _ _ _ x _ x _ x _ x x x x 
+ x _ x x x _ x _ x _ x _ _ x _ x x x x x x x x _ x _ x _ x _ x _ x _ _ _ _ _ _ _ 
+ _ _ _ _ x _ x _ x _ x x _ _ _ _ _ _ x _ x _ x x x x x x x x x _ x _ x x x x x x 
+ _ x _ x x _ x _ x _ _ x x _ x x x _ _ _ _ _ _ _ _ x _ x _ x _ _ _ _ _ _ _ _ _ _ 
+ _ x _ x x _ x _ x x _ x _ _ _ x x x x x _ x x x x x _ x _ x _ x x x x x x x x x 
+ _ x _ _ x _ x _ _ x x x _ x _ _ _ _ x _ _ _ _ _ x _ _ _ _ _ _ _ _ _ _ _ x _ _ _ 
+ x x _ x x _ x _ x x _ _ _ x x _ x x x x x _ x x x _ x x x x x x x x x x x _ x x 
+ _ _ _ x x _ x _ _ x x x _ x _ _ x _ x _ x _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+ _ x _ _ x x x x x x _ _ _ x x _ _ _ _ _ x _ x x _ x _ x x _ x _ x x x x x x x x 
+ _ x x _ _ _ _ _ _ x _ x _ _ x x _ x x x x x x _ _ x _ _ x x x _ _ _ _ _ _ _ _ _ 
+ _ _ x _ x _ x _ x x _ x _ x x _ _ _ _ x _ _ x _ x x x _ _ _ x x _ x _ x x _ x _ 
+ x _ x _ x _ x _ x x x x _ _ x x _ x _ _ _ x x _ _ _ x _ x _ x x x x x x x _ x _ 
+ _ _ x _ x _ x _ _ _ _ x _ x x _ _ x _ x _ _ x x x x x x x _ _ _ _ _ _ _ x x x _ 
+ _ x x _ x _ x _ x x x x x x x x _ x _ x x _ _ _ _ x _ x x x _ x x _ x x x _ x x 
+ _ x _ _ x _ x _ _ _ _ _ _ _ _ x _ x _ x _ _ x x _ _ _ _ _ x _ _ x _ _ _ _ _ _ _ 
+ x x x _ x _ x _ x x _ x _ x _ x _ x _ x x _ _ x _ x x _ x x x x x x x _ x x x x 
+ x _ x _ x _ x _ _ x _ x x x _ x _ x _ x _ _ x x _ _ x _ _ _ _ _ _ _ x _ _ _ _ _ 
+ _ _ _ _ x x x _ x x _ _ _ x x x _ x _ x x _ _ x x _ x _ x _ x _ x _ x x _ x _ x 
+ _ x x _ _ x _ _ x x x x x x x _ _ x _ x _ _ x x _ _ x _ x _ x _ x _ _ x x x _ x 
+ x x x _ x x x _ _ _ _ _ _ _ x _ x x x x x _ _ x x _ x _ x _ x _ x x _ _ _ x _ _ 
+ _ _ _ _ _ _ x _ x _ x _ x x x x x x _ _ _ _ x x x _ x _ x _ x _ x _ _ x _ x _ x 
+ _ x _ x _ x x _ x _ x _ _ _ _ x _ x x x x _ _ _ x _ x _ x _ x _ x _ x x x x _ _ 
+ x x x x _ _ x _ x _ x x x x x x _ x _ x _ _ x _ x x x x x x x x x x x _ x x x _ 
+ _ _ _ _ _ x x _ x _ _ _ _ _ _ _ _ _ _ x x x x _ _ _ _ _ _ _ _ _ _ _ x _ _ _ x _ 
+ _ x x _ x x x x x x _ x _ x x _ x x _ _ _ _ x _ x x x x _ x x x x _ _ _ x _ x _ 
+ _ _ x _ _ x _ _ _ _ _ x _ _ x _ _ x x _ x x x _ _ _ _ x _ _ _ _ x x x x x x x x 
+ _ x x _ x x x x _ x _ x _ x x _ x x _ _ _ _ x _ x x _ x _ x x _ _ _ _ _ _ _ _ _ 
+ _ _ x _ _ _ x _ _ x _ x _ _ x _ _ x x x _ x x x x _ _ x _ _ x _ x _ x x x x x x 
+ _ x x x x x x x _ x _ x x _ x x _ _ x _ _ _ _ x _ _ x x _ x x _ x _ _ _ _ _ _ x 
+ _ x x _ _ _ _ _ _ x _ _ x _ x x _ x x x x _ x x x x x x x x x _ x _ x _ x x _ _ 
+ _ _ x _ x _ x _ x x _ x x _ _ x _ x _ _ _ _ _ _ _ _ _ _ _ _ x _ x _ x _ _ x _ x 
+ _ x x x x _ x x x _ _ _ x _ x x x x x x x x _ x x x x x x x x _ x _ x _ x x _ x 
+ _ _ _ _ x _ _ _ x x _ x x _ _ x _ _ _ _ _ _ _ _ _ _ _ _ _ _ x _ x _ x _ _ x _ _ 
+ 
+_ O O O _ x x _ x _ _ _ x x _ _ _ _ _ _ _ _ _ x _ x _ x _ _ _ _ _ _ _ x _ x _ _ 
+ O x _ x O O _ _ _ _ x _ _ _ _ x x _ x _ x _ x x _ x _ _ _ x x x x x x x _ x _ x 
+ O x _ x _ x O x x _ x x x x x x x x x x x _ _ _ _ _ _ x _ _ _ _ _ _ _ _ _ _ _ x 
+ O x _ x _ x O _ x _ _ _ _ _ x _ _ _ x _ x _ x x x x x x x _ x x _ x x x x x _ _ 
+ O x x x _ x O x x _ x x x _ _ _ x x x _ x x x _ _ _ _ _ x _ _ x _ _ _ _ _ x x _ 
+ O _ _ x _ x _ O x _ _ _ x _ x _ _ _ _ _ _ _ _ _ x _ x x x _ x x _ x _ x _ _ x _ 
+ x O x x _ x x O x _ x x x x x x x x x x x _ x _ x _ x _ x x x x x x x x x _ x _ 
+ _ O _ x _ _ x O x _ _ _ x x _ _ _ _ _ _ x _ x _ x _ _ _ _ _ x _ x _ x _ x x x x 
+ x O x x x _ x O x _ x _ _ x _ x x x x x x x x _ x _ x _ x _ x _ x _ _ _ _ _ _ _ 
+ _ O _ _ x _ x _ S _ x x _ _ _ _ _ _ x _ x _ x x x x x x x x x _ x _ x x x x x x 
+ _ x O x x _ x _ x _ _ x x _ x x x _ _ _ _ _ _ _ _ x _ x _ x _ _ _ _ _ _ _ _ _ _ 
+ _ x O x x _ x _ x x _ x _ _ _ x x x x x _ x x x x x _ x _ x _ x x x x x x x x x 
+ _ x O _ x _ x _ _ x x x _ x _ _ _ _ x _ _ _ _ _ x _ _ _ _ _ _ _ _ _ _ _ x _ _ _ 
+ x x O x x _ x _ x x _ _ _ x x _ x x x x x _ x x x _ x x x x x x x x x x x _ x x 
+ _ _ O x x _ x _ _ x x x _ x _ _ x _ x _ x _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+ _ x _ O x x x x x x _ _ _ x x _ _ _ _ _ x _ x x _ x _ x x _ x _ x x x x x x x x 
+ _ x x _ O O O _ _ x _ x _ _ x x _ x x x x x x _ _ x _ _ x x x _ _ _ _ _ _ _ _ _ 
+ _ _ x _ x _ x O x x _ x _ x x _ _ _ _ x _ _ x _ x x x _ _ _ x x _ x _ x x _ x _ 
+ x _ x _ x _ x O x x x x _ _ x x _ x _ _ _ x x _ _ _ x _ x _ x x x x x x x _ x _ 
+ _ _ x _ x _ x O _ _ _ x _ x x _ _ x _ x _ _ x x x x x x x _ _ _ _ _ _ _ x x x _ 
+ _ x x _ x _ x O x x x x x x x x _ x _ x x _ _ _ _ x _ x x x _ x x _ x x x _ x x 
+ _ x _ _ x _ x O _ _ _ _ _ _ _ x _ x _ x _ _ x x _ _ _ _ _ x _ _ x _ _ _ _ _ _ _ 
+ x x x _ x _ x O x x _ x _ x _ x _ x _ x x _ _ x _ x x _ x x x x x x x _ x x x x 
+ x _ x _ x _ x O _ x _ x x x _ x _ x _ x _ _ x x _ _ x _ _ _ _ _ _ _ x _ _ _ _ _ 
+ _ _ _ _ x x x O x x _ _ _ x x x _ x _ x x _ _ x x _ x _ x _ x _ x _ x x _ x _ x 
+ _ x x _ _ x _ O x x x x x x x _ _ x _ x _ _ x x _ _ x _ x _ x _ x _ _ x x x _ x 
+ x x x _ x x x _ O _ _ _ _ _ x _ x x x x x _ _ x x _ x _ x _ x _ x x _ _ _ x _ _ 
+ _ _ _ _ _ _ x _ x O x _ x x x x x x _ _ _ _ x x x _ x _ x _ x _ x _ _ x _ x _ x 
+ _ x _ x _ x x _ x O x _ _ _ _ x _ x x x x _ _ _ x _ x _ x _ x _ x _ x x x x _ _ 
+ x x x x _ _ x _ x O x x x x x x _ x _ x _ _ x _ x x x x x x x x x x x _ x x x _ 
+ _ _ _ _ _ x x _ x O _ _ _ _ _ _ _ _ _ x x x x _ _ _ _ _ _ _ _ _ _ _ x _ _ _ x _ 
+ _ x x _ x x x x x x O x _ x x _ x x _ _ _ _ x _ x x x x _ x x x x _ _ _ x _ x _ 
+ _ _ x _ _ x _ _ _ _ O x _ _ x _ _ x x _ x x x _ _ _ _ x _ _ _ _ x x x x x x x x 
+ _ x x _ x x x x _ x O x _ x x _ x x _ _ _ _ x _ x x _ x _ x x _ _ _ _ _ _ _ _ _ 
+ _ _ x _ _ _ x _ _ x O x _ _ x _ _ x x x _ x x x x _ _ x _ _ x _ x _ x x x x x x 
+ _ x x x x x x x _ x E x x _ x x _ _ x _ _ _ _ x _ _ x x _ x x _ x _ _ _ _ _ _ x 
+ _ x x _ _ _ _ _ _ x _ _ x _ x x _ x x x x _ x x x x x x x x x _ x _ x _ x x _ _ 
+ _ _ x _ x _ x _ x x _ x x _ _ x _ x _ _ _ _ _ _ _ _ _ _ _ _ x _ x _ x _ _ x _ x 
+ _ x x x x _ x x x _ _ _ x _ x x x x x x x x _ x x x x x x x x _ x _ x _ x x _ x 
+ _ _ _ _ x _ _ _ x x _ x x _ _ x _ _ _ _ _ _ _ _ _ _ _ _ _ _ x _ x _ x _ _ x _ _ 
+ 
+_ O O O _ x x _ x _ _ _ x x _ _ _ _ _ _ _ _ _ x _ x _ x _ _ _ _ _ _ _ x _ x _ _ 
+ O x _ x O O O O O _ x _ _ _ _ x x _ x _ x _ x x _ x _ _ _ x x x x x x x _ x _ x 
+ O x _ x _ x _ x x O x x x x x x x x x x x _ _ _ _ _ _ x _ _ _ _ _ _ _ _ _ _ _ x 
+ O x _ x _ x _ _ x O _ _ _ _ x _ _ _ x _ x _ x x x x x x x _ x x _ x x x x x _ _ 
+ O x x x _ x _ x x O x x x _ _ _ x x x _ x x x _ _ _ _ _ x _ _ x _ _ _ _ _ x x _ 
+ O _ _ x _ x _ _ x O _ _ x _ x _ _ _ _ _ _ _ _ _ x _ x x x _ x x _ x _ x _ _ x _ 
+ x O x x _ x x _ x O x x x x x x x x x x x _ x _ x _ x _ x x x x x x x x x _ x _ 
+ _ O _ x _ _ x _ x _ O _ x x _ _ _ _ _ _ x _ x _ x _ _ _ _ _ x _ x _ x _ x x x x 
+ x O x x x _ x _ x O x O _ x _ x x x x x x x x _ x _ x _ x _ x _ x _ _ _ _ _ _ _ 
+ _ O _ _ x _ x _ S _ x x O O O O O _ x _ x _ x x x x x x x x x _ x _ x x x x x x 
+ _ x O x x _ x _ x _ _ x x O x x x O O O _ _ _ _ _ x _ x _ x _ _ _ _ _ _ _ _ _ _ 
+ _ x O x x _ x _ x x _ x _ O O x x x x x O x x x x x _ x _ x _ x x x x x x x x x 
+ _ x O _ x _ x _ _ x x x _ x O O _ _ x _ O _ _ _ x _ O O _ _ _ _ _ _ _ _ x _ _ _ 
+ x x O x x _ x _ x x _ _ _ x x O x x x x x O x x x O x x x x x x x x x x x _ x x 
+ _ _ O x x _ x _ _ x x x _ x _ O x _ x _ x _ O O O O _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+ _ x O _ x x x x x x _ _ _ x x O O _ _ _ x _ x x _ x O x x _ x _ x x x x x x x x 
+ _ x x O O O O _ _ x _ x _ _ x x O x x x x x x _ _ x _ O x x x _ _ _ _ _ _ _ _ _ 
+ _ _ x O x _ x O x x _ x _ x x _ _ O _ x _ _ x _ x x x _ O _ x x _ x _ x x _ x _ 
+ x _ x O x _ x O x x x x _ _ x x _ x O O _ x x _ _ _ x _ x _ x x x x x x x _ x _ 
+ _ _ x O x _ x O _ _ _ x _ x x _ _ x _ x O _ x x x x x x x _ _ _ _ _ _ _ x x x _ 
+ _ x x O x _ x O x x x x x x x x _ x _ x x O _ _ _ x _ x x x _ x x _ x x x _ x x 
+ _ x _ O x _ x O _ _ _ _ _ _ _ x _ x _ x _ O x x _ _ _ _ _ x _ _ x _ _ _ _ _ _ _ 
+ x x x O x _ x O x x _ x _ x _ x _ x _ x x O _ x _ x x _ x x x x x x x _ x x x x 
+ x _ x O x _ x O _ x _ x x x _ x _ x _ x _ O x x _ _ x _ _ _ _ _ _ _ x _ _ _ _ _ 
+ _ _ _ O x x x O x x _ _ _ x x x _ x _ x x O _ x x _ x _ x _ x _ x _ x x _ x _ x 
+ _ x x O _ x _ O x x x x x x x _ _ x _ x _ O x x _ _ x _ x _ x _ x _ _ x x x _ x 
+ x x x _ x x x _ O _ _ _ _ _ x _ x x x x x O _ x x _ x _ x _ x _ x x _ _ _ x _ _ 
+ _ _ _ _ _ _ x _ x O x _ x x x x x x _ _ _ O x x x _ x _ x _ x _ x _ _ x _ x _ x 
+ _ x _ x _ x x _ x O x _ _ _ _ x _ x x x x _ O _ x _ x _ x _ x _ x _ x x x x _ _ 
+ x x x x _ _ x _ x O x x x x x x _ x _ x _ _ x O x x x x x x x x x x x _ x x x _ 
+ _ _ _ _ _ x x _ x O _ _ _ _ _ _ _ _ _ x x x x _ O O O O _ _ _ _ _ _ x _ _ _ x _ 
+ _ x x _ x x x x x x O x _ x x _ x x _ _ _ _ x _ x x x x O x x x x _ _ _ x _ x _ 
+ _ _ x _ _ x _ _ _ _ O x _ _ x _ _ x x _ x x x _ _ _ _ x _ O _ _ x x x x x x x x 
+ _ x x _ x x x x _ x O x _ x x _ x x _ _ _ _ x _ x x _ x _ x x _ _ _ _ _ _ _ _ _ 
+ _ _ x _ _ _ x _ _ x O x _ _ x _ _ x x x _ x x x x _ _ x _ _ x _ x _ x x x x x x 
+ _ x x x x x x x _ x E x x _ x x _ _ x _ _ _ _ x _ _ x x _ x x _ x _ _ _ _ _ _ x 
+ _ x x _ _ _ _ _ _ x _ _ x _ x x _ x x x x _ x x x x x x x x x _ x _ x _ x x _ _ 
+ _ _ x _ x _ x _ x x _ x x _ _ x _ x _ _ _ _ _ _ _ _ _ _ _ _ x _ x _ x _ _ x _ x 
+ _ x x x x _ x x x _ _ _ x _ x x x x x x x x _ x x x x x x x x _ x _ x _ x x _ x 
+ _ _ _ _ x _ _ _ x x _ x x _ _ x _ _ _ _ _ _ _ _ _ _ _ _ _ _ x _ x _ x _ _ x _ _ 
+ 
+Dimenzije: 40x40 Vidokrug: 13
+Vreme izvesavanja za:
+- A*: 0.0500001907349
+- Potraga: 1.15499997139
+- Potraga bez gledanja: 0.0
+- Glup algoritam: 0.0331500005722
+
+Potezi za:
+- A*: 54.74
+- Potraga: 89.2
+- Potraga bez gledanja: 600.1311
+- Glup algoritam: 2208.79872889
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ x _ x _ _ x _ x _ _ _ x _ _ _ _ _ _ _ _ _ x x _ _ _ 
+ x _ x _ x x x x x x x x x _ _ _ _ _ x x _ x _ x x x _ x x x x x _ x _ _ _ _ x x 
+ _ _ x _ _ _ _ _ _ _ _ _ x _ x _ x _ _ _ _ _ _ _ _ _ _ _ _ _ _ x _ x _ x x x x _ 
+ _ x x _ x x x _ x _ x x x x x _ x _ x x x x x x x x x x x x x x x x x x _ x x _ 
+ _ _ x _ _ _ x _ x x x _ x _ x x x _ _ _ x _ _ _ _ _ _ _ x _ x _ _ _ x _ _ x _ _ 
+ _ x x _ x _ x _ _ _ _ _ _ _ _ x x x x x x _ x _ x _ x _ _ _ _ _ x x x _ x x x _ 
+ _ x _ _ x _ x x _ x x x x x _ _ _ x _ x _ _ x _ x x x x x x x x x _ x _ _ _ _ _ 
+ _ x x _ x _ _ x _ _ _ _ x x x x x x _ _ _ x x _ _ _ _ _ _ _ _ _ _ _ _ _ x _ x _ 
+ _ x _ _ x _ x x x _ x _ _ _ _ x _ _ _ x _ _ x x x x x x x x _ x x _ x x x x x _ 
+ _ x _ x x _ _ _ x _ x _ x x _ _ _ x x x x _ _ _ _ _ x _ _ x _ _ x _ _ x _ _ x x 
+ _ x _ _ x _ x _ x _ x _ x _ _ x _ _ _ _ x _ x x x x x _ x x x x x x x x _ x x _ 
+ _ x _ x x _ x _ x _ x x x x _ x _ x _ x x _ _ _ _ _ _ _ _ _ x _ x _ x x _ _ _ _ 
+ _ x _ x _ _ x _ x _ _ _ _ x x x _ x _ x x _ x _ x _ x x x _ _ _ _ _ _ _ _ x _ x 
+ _ x _ x x _ x _ x _ x x _ _ _ x _ x _ _ x _ x _ x _ x _ x x x x _ x x x x x x x 
+ _ x x x _ _ x x x _ _ x _ x _ x x x x x x _ x _ x _ _ _ _ _ _ x _ _ _ _ _ _ _ _ 
+ _ _ x _ _ x x _ _ _ x x _ x _ _ _ _ _ _ x _ x _ x x _ x _ x x x x x x x x x x x 
+ _ x x x _ _ x _ x _ x x _ x _ x x _ x _ x _ x _ x _ _ x _ _ _ x _ x _ _ _ _ _ _ 
+ _ _ _ x _ x x _ x _ _ x _ x _ _ x _ x x x x x x x x x x _ x _ _ _ _ _ x _ x _ x 
+ _ x _ x _ _ x x x _ x x _ x x _ x _ _ _ _ _ x _ _ _ _ _ _ x _ x x x x x _ x _ _ 
+ x x x x _ x x _ _ _ _ x _ _ x x x x x x x x x x x x _ x _ x _ _ _ _ _ x x x x x 
+ _ _ _ _ _ _ x _ x _ x x _ x x _ x _ x _ x _ _ _ _ x _ x _ x _ x x x _ _ _ _ _ _ 
+ x x _ x _ x x _ x _ x x _ _ _ _ _ _ _ _ _ _ x x x x _ x _ x _ _ _ x x x x x x _ 
+ _ _ _ x _ x _ _ x _ x _ _ x _ x x x x x x _ _ _ _ x _ x _ x _ x _ _ _ _ _ x x x 
+ _ x _ x _ x x _ x x x x _ x _ _ _ _ _ _ x _ x _ x x x x x x x x _ x x x _ _ _ x 
+ _ x _ x x x _ _ x _ _ _ _ x _ x _ x x x x x x _ _ _ _ _ _ _ _ x _ _ _ x _ x _ _ 
+ _ x _ _ x _ _ x x x _ x _ x _ x _ _ _ _ _ _ x _ x _ x x x _ x x _ x _ x _ x _ x 
+ _ x _ x x _ x x _ _ _ x _ x _ x x _ x x x x x x x _ _ _ x _ x x x x x x _ x _ _ 
+ _ x _ x x _ x _ _ x _ x _ x _ _ x _ _ _ _ _ _ x _ _ x _ x _ _ _ _ _ _ x _ x x _ 
+ _ x _ _ x _ x x _ x _ x _ x x _ x x _ x x _ x x x _ x _ x x _ x _ x _ x _ _ x _ 
+ x x _ x x _ x _ _ x x x x x x _ _ x _ x x _ x _ x x x x x x _ x x x _ x x x x _ 
+ _ _ _ x _ _ x x _ _ _ _ _ _ x _ x x _ _ x _ _ _ _ _ _ _ _ x _ _ x _ _ _ _ _ x x 
+ _ x _ x _ x x x x _ x _ x x x _ x _ _ x x _ x x x x x x x x _ x x x _ x x _ _ _ 
+ _ x _ x _ x x _ _ _ x _ _ _ x _ x _ x x _ _ x _ _ _ x _ _ x _ x _ _ _ _ x _ x x 
+ _ x x x _ x _ _ x _ x x _ x x _ x _ x x x _ _ _ x _ _ _ x x x x x x x _ x _ _ _ 
+ _ _ _ x _ x _ x x _ x _ _ _ x x x x x _ _ _ x _ x x x x x _ x _ x _ x x x x x x 
+ _ x x x _ x _ _ x x x _ x _ _ _ _ _ x _ x _ x _ _ _ _ _ _ _ _ _ _ _ x _ _ _ _ x 
+ _ _ _ x _ x x _ x x _ _ x _ x _ x _ x _ x _ x _ x _ x _ x _ x _ x _ _ _ x x _ _ 
+ _ x _ x _ x _ _ _ x _ x x _ x _ x _ x _ x _ x _ x _ x _ x x x x x _ x _ _ x x x 
+ _ x x x _ x x _ x x _ x x x x _ x _ x x x _ x _ x _ x _ _ _ _ _ x x x x x x x _ 
+ _ _ _ x _ x _ _ _ x _ _ _ x _ _ x _ x _ _ _ x _ x _ x _ x _ x _ _ _ _ _ _ _ _ _ 
+ 
+_ _ _ _ O O O O O O O O O _ x _ x _ _ x _ x _ _ _ x _ _ _ _ _ _ _ _ _ x x _ _ _ 
+ x _ x O x x x x x x x x x O O O O _ x x S x _ x x x _ x x x x x _ x _ _ _ _ x x 
+ _ _ x _ O O O _ _ _ _ _ x _ x _ x O O O _ _ _ _ _ _ _ _ _ _ _ x _ x _ x x x x _ 
+ _ x x _ x x x O x _ x x x x x _ x _ x x x x x x x x x x x x x x x x x x _ x x _ 
+ _ _ x _ _ _ x O x x x _ x _ x x x _ _ _ x _ _ _ _ _ _ _ x _ x _ _ _ x _ _ x _ _ 
+ _ x x _ x _ x O _ _ _ _ _ _ _ x x x x x x _ x _ x _ x _ _ _ _ _ x x x _ x x x _ 
+ _ x _ _ x _ x x O x x x x x _ _ _ x _ x _ _ x _ x x x x x x x x x _ x _ _ _ _ _ 
+ _ x x _ x _ _ x O _ _ _ x x x x x x _ _ _ x x _ _ _ _ _ _ _ _ _ _ _ _ _ x _ x _ 
+ _ x _ _ x _ x x x O x _ _ _ _ x _ _ _ x _ _ x x x x x x x x _ x x _ x x x x x _ 
+ _ x _ x x _ _ _ x O x _ x x _ _ _ x x x x _ _ _ _ _ x _ _ x _ _ x _ _ x _ _ x x 
+ _ x _ _ x _ x _ x O x _ x _ _ x _ _ _ _ x _ x x x x x _ x x x x x x x x _ x x _ 
+ _ x _ x x _ x _ x O x x x x _ x _ x _ x x _ _ _ _ _ _ _ _ _ x _ x _ x x _ _ _ _ 
+ _ x _ x _ _ x _ x _ O O _ x x x _ x _ x x _ x _ x _ x x x _ _ _ _ _ _ _ _ x _ x 
+ _ x _ x x _ x _ x _ x x O _ _ x _ x _ _ x _ x _ x _ x _ x x x x _ x x x x x x x 
+ _ x x x _ _ x x x _ _ x O x _ x x x x x x _ x _ x _ _ _ _ _ _ x _ _ _ _ _ _ _ _ 
+ _ _ x _ _ x x _ _ _ x x O x _ _ _ _ _ _ x _ x _ x x _ x _ x x x x x x x x x x x 
+ _ x x x _ _ x _ x _ x x O x _ x x _ x _ x _ x _ x _ _ x _ _ _ x _ x _ _ _ _ _ _ 
+ _ _ _ x _ x x _ x _ _ x O x _ _ x _ x x x x x x x x x x _ x _ _ _ _ _ x _ x _ x 
+ _ x _ x _ _ x x x _ x x O x x _ x _ _ _ _ _ x _ _ _ _ _ _ x _ x x x x x _ x _ _ 
+ x x x x _ x x _ _ _ _ x O _ x x x x x x x x x x x x _ x _ x _ _ _ _ _ x x x x x 
+ _ _ _ _ _ _ x _ x _ x x O x x _ x _ x _ x _ _ _ _ x _ x _ x _ x x x _ _ _ _ _ _ 
+ x x _ x _ x x _ x _ x x O _ _ _ _ _ _ _ _ _ x x x x _ x _ x _ _ _ x x x x x x _ 
+ _ _ _ x _ x _ _ x _ x _ O x _ x x x x x x _ _ _ _ x _ x _ x _ x _ _ _ _ _ x x x 
+ _ x _ x _ x x _ x x x x O x _ _ _ _ _ _ x _ x _ x x x x x x x x _ x x x _ _ _ x 
+ _ x _ x x x _ _ x _ _ O _ x _ x _ x x x x x x _ _ _ _ _ _ _ _ x _ _ _ x _ x _ _ 
+ _ x _ _ x _ _ x x x O x _ x _ x _ _ _ _ _ _ x _ x _ x x x _ x x _ x _ x _ x _ x 
+ _ x _ x x _ x x _ O _ x _ x _ x x _ x x x x x x x _ _ _ x _ x x x x x x _ x _ _ 
+ _ x _ x x _ x _ O x _ x _ x _ _ x _ _ _ _ _ _ x _ _ x _ x _ _ _ _ _ _ x _ x x _ 
+ _ x _ _ x _ x x O x _ x _ x x _ x x _ x x _ x x x _ x _ x x _ x _ x _ x _ _ x _ 
+ x x _ x x _ x _ O x x x x x x _ _ x _ x x _ x _ x x x x x x _ x x x _ x x x x _ 
+ _ _ _ x _ _ x x E _ _ _ _ _ x _ x x _ _ x _ _ _ _ _ _ _ _ x _ _ x _ _ _ _ _ x x 
+ _ x _ x _ x x x x _ x _ x x x _ x _ _ x x _ x x x x x x x x _ x x x _ x x _ _ _ 
+ _ x _ x _ x x _ _ _ x _ _ _ x _ x _ x x _ _ x _ _ _ x _ _ x _ x _ _ _ _ x _ x x 
+ _ x x x _ x _ _ x _ x x _ x x _ x _ x x x _ _ _ x _ _ _ x x x x x x x _ x _ _ _ 
+ _ _ _ x _ x _ x x _ x _ _ _ x x x x x _ _ _ x _ x x x x x _ x _ x _ x x x x x x 
+ _ x x x _ x _ _ x x x _ x _ _ _ _ _ x _ x _ x _ _ _ _ _ _ _ _ _ _ _ x _ _ _ _ x 
+ _ _ _ x _ x x _ x x _ _ x _ x _ x _ x _ x _ x _ x _ x _ x _ x _ x _ _ _ x x _ _ 
+ _ x _ x _ x _ _ _ x _ x x _ x _ x _ x _ x _ x _ x _ x _ x x x x x _ x _ _ x x x 
+ _ x x x _ x x _ x x _ x x x x _ x _ x x x _ x _ x _ x _ _ _ _ _ x x x x x x x _ 
+ _ _ _ x _ x _ _ _ x _ _ _ x _ _ x _ x _ _ _ x _ x _ x _ x _ x _ _ _ _ _ _ _ _ _ 
+ 
+_ _ _ _ O O O O O O O O O _ x _ x _ _ x _ x _ _ _ x _ _ _ _ _ _ _ _ _ x x _ _ _ 
+ x _ x O x x x x x x x x x O O O O _ x x S x _ x x x _ x x x x x _ x _ _ _ _ x x 
+ _ _ x O O O O _ _ _ _ _ x _ x _ x O O O _ _ _ _ _ _ _ _ _ _ _ x _ x _ x x x x _ 
+ _ x x O x x x O x _ x x x x x _ x _ x x x x x x x x x x x x x x x x x x _ x x _ 
+ _ _ x _ O _ x O x x x _ x _ x x x _ _ _ x _ _ _ _ _ _ _ x _ x _ _ _ x _ _ x _ _ 
+ _ x x _ x O x O _ _ _ _ _ _ _ x x x x x x _ x _ x _ x _ _ _ _ _ x x x _ x x x _ 
+ _ x _ _ x O x x O x x x x x _ _ _ x _ x _ _ x _ x x x x x x x x x _ x _ _ _ _ _ 
+ _ x x _ x O _ x O _ _ _ x x x x x x _ _ _ x x _ _ _ _ _ _ _ _ _ _ _ _ _ x _ x _ 
+ _ x _ _ x O x x x O x _ _ _ _ x _ _ _ x _ _ x x x x x x x x _ x x _ x x x x x _ 
+ _ x _ x x O _ _ x O x _ x x _ _ _ x x x x _ _ _ _ _ x _ _ x _ _ x _ _ x _ _ x x 
+ _ x _ _ x O x _ x O x _ x _ _ x _ _ _ _ x _ x x x x x _ x x x x x x x x _ x x _ 
+ _ x _ x x O x _ x O x x x x _ x _ x _ x x _ _ _ _ _ _ _ _ _ x _ x _ x x _ _ _ _ 
+ _ x _ x _ O x _ x _ O O _ x x x _ x _ x x _ x _ x _ x x x _ _ _ _ _ _ _ _ x _ x 
+ _ x _ x x O x _ x _ x x O _ _ x _ x _ _ x _ x _ x _ x _ x x x x _ x x x x x x x 
+ _ x x x O O x x x _ _ x O x _ x x x x x x _ x _ x _ _ _ _ _ _ x _ _ _ _ _ _ _ _ 
+ _ _ x _ O x x _ _ _ x x O x _ _ _ _ _ _ x _ x _ x x _ x _ x x x x x x x x x x x 
+ _ x x x O _ x _ x _ x x O x _ x x _ x _ x _ x _ x _ _ x _ _ _ x _ x _ _ _ _ _ _ 
+ _ _ _ x O x x _ x _ _ x O x _ _ x _ x x x x x x x x x x _ x _ _ _ _ _ x _ x _ x 
+ _ x _ x O _ x x x _ x x O x x _ x _ _ _ _ _ x _ _ _ _ _ _ x _ x x x x x _ x _ _ 
+ x x x x _ x x _ _ _ _ x O _ x x x x x x x x x x x x _ x _ x _ _ _ _ _ x x x x x 
+ _ _ _ _ _ _ x _ x _ x x O x x _ x _ x _ x _ _ _ _ x _ x _ x _ x x x _ _ _ _ _ _ 
+ x x _ x _ x x _ x _ x x O _ _ _ _ _ _ _ _ _ x x x x _ x _ x _ _ _ x x x x x x _ 
+ _ _ _ x _ x _ _ x _ x _ O x _ x x x x x x _ _ _ _ x _ x _ x _ x _ _ _ _ _ x x x 
+ _ x _ x _ x x _ x x x x O x _ _ _ _ _ _ x _ x _ x x x x x x x x _ x x x _ _ _ x 
+ _ x _ x x x _ _ x _ _ O _ x _ x _ x x x x x x _ _ _ _ _ _ _ _ x _ _ _ x _ x _ _ 
+ _ x _ _ x _ _ x x x O x _ x _ x _ _ _ _ _ _ x _ x _ x x x _ x x _ x _ x _ x _ x 
+ _ x _ x x _ x x _ O _ x _ x _ x x _ x x x x x x x _ _ _ x _ x x x x x x _ x _ _ 
+ _ x _ x x _ x _ O x _ x _ x _ _ x _ _ _ _ _ _ x _ _ x _ x _ _ _ _ _ _ x _ x x _ 
+ _ x _ _ x _ x x O x _ x _ x x _ x x _ x x _ x x x _ x _ x x _ x _ x _ x _ _ x _ 
+ x x _ x x _ x _ O x x x x x x _ _ x _ x x _ x _ x x x x x x _ x x x _ x x x x _ 
+ _ _ _ x _ _ x x E _ _ _ _ _ x _ x x _ _ x _ _ _ _ _ _ _ _ x _ _ x _ _ _ _ _ x x 
+ _ x _ x _ x x x x _ x _ x x x _ x _ _ x x _ x x x x x x x x _ x x x _ x x _ _ _ 
+ _ x _ x _ x x _ _ _ x _ _ _ x _ x _ x x _ _ x _ _ _ x _ _ x _ x _ _ _ _ x _ x x 
+ _ x x x _ x _ _ x _ x x _ x x _ x _ x x x _ _ _ x _ _ _ x x x x x x x _ x _ _ _ 
+ _ _ _ x _ x _ x x _ x _ _ _ x x x x x _ _ _ x _ x x x x x _ x _ x _ x x x x x x 
+ _ x x x _ x _ _ x x x _ x _ _ _ _ _ x _ x _ x _ _ _ _ _ _ _ _ _ _ _ x _ _ _ _ x 
+ _ _ _ x _ x x _ x x _ _ x _ x _ x _ x _ x _ x _ x _ x _ x _ x _ x _ _ _ x x _ _ 
+ _ x _ x _ x _ _ _ x _ x x _ x _ x _ x _ x _ x _ x _ x _ x x x x x _ x _ _ x x x 
+ _ x x x _ x x _ x x _ x x x x _ x _ x x x _ x _ x _ x _ _ _ _ _ x x x x x x x _ 
+ _ _ _ x _ x _ _ _ x _ _ _ x _ _ x _ x _ _ _ x _ x _ x _ x _ x _ _ _ _ _ _ _ _ _ 
+ 
+
+4
+

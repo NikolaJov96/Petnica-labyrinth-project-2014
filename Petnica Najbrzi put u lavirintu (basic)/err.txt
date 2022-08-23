@@ -1,0 +1,22 @@
+Traceback (most recent call last):
+  File "C:\Users\mi\Documents\Python\Petnica Najbrzi put u lavirintu\main.py", line 38, in <module>
+    import potraga
+  File "C:\Users\mi\Documents\Python\Petnica Najbrzi put u lavirintu\potraga.py", line 265, in <module>
+    succ = rec(startx, starty, 0)
+  File "C:\Users\mi\Documents\Python\Petnica Najbrzi put u lavirintu\potraga.py", line 250, in rec
+    if rec(curx, cury+1, ind + max(mat[curx][cury+1], mat[curx][cury])):
+  File "C:\Users\mi\Documents\Python\Petnica Najbrzi put u lavirintu\potraga.py", line 250, in rec
+    if rec(curx, cury+1, ind + max(mat[curx][cury+1], mat[curx][cury])):
+  File "C:\Users\mi\Documents\Python\Petnica Najbrzi put u lavirintu\potraga.py", line 250, in rec
+    if rec(curx, cury+1, ind + max(mat[curx][cury+1], mat[curx][cury])):
+  File "C:\Users\mi\Documents\Python\Petnica Najbrzi put u lavirintu\potraga.py", line 250, in rec
+    if rec(curx, cury+1, ind + max(mat[curx][cury+1], mat[curx][cury])):
+  File "C:\Users\mi\Documents\Python\Petnica Najbrzi put u lavirintu\potraga.py", line 250, in rec
+    if rec(curx, cury+1, ind + max(mat[curx][cury+1], mat[curx][cury])):
+  File "C:\Users\mi\Documents\Python\Petnica Najbrzi put u lavirintu\potraga.py", line 179, in rec
+    if makesuglist(curx, cury, ind): return True
+  File "C:\Users\mi\Documents\Python\Petnica Najbrzi put u lavirintu\potraga.py", line 137, in makesuglist
+    chnode(cur[0], cur[1], 1, 0)
+  File "C:\Users\mi\Documents\Python\Petnica Najbrzi put u lavirintu\potraga.py", line 97, in chnode
+    if not((x+dx,y+dy) in openlist):
+KeyboardInterrupt

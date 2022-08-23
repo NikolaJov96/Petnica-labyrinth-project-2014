@@ -1,0 +1,227 @@
+Dimenzije: 20x20 Vidokrug: 10
+Vreme izvesavanja za:
+- A*: 0.0169999599457
+- Potraga: 0.121000051498
+- Potraga bez gledanja: 0.0
+- Glup algoritam: 0.00873001337051
+
+Potezi za:
+- A*: 30.15
+- Potraga: 41.79
+- Potraga bez gledanja: 134.8932
+- Glup algoritam: 504.313966468
+
+_ x x _ x _ _ _ x x _ x O _ x x _ _ x O 
+x x x _ x _ x _ O x _ _ x _ x _ _ x x x 
+_ _ _ x x _ x _ x x _ _ _ O x x O _ O _ 
+x x x O x _ O _ _ O _ _ x x O x x x _ x 
+x x x _ O _ x _ _ _ _ _ _ x _ _ _ _ _ _ 
+_ x _ x x _ _ _ x _ x O O x x O O _ x _ 
+x O x _ O O x _ _ x x _ O _ x O x _ x O 
+x O O O x x _ _ x _ O x _ _ _ _ _ _ x _ 
+_ x x O x _ _ _ _ _ x _ x x _ _ x _ x O 
+O _ _ O _ O _ x x x x x _ x _ _ x x x O 
+_ _ x _ x x _ x _ O x _ _ _ _ x x _ x x 
+_ x O _ x _ x O x x _ _ O O O _ _ _ _ _ 
+x O O _ x _ _ _ x x x x _ _ O _ _ x _ _ 
+O _ x _ x _ x x O _ x O _ x x _ _ _ _ O 
+_ _ O _ _ x _ _ _ O _ _ O _ _ _ O x x _ 
+_ x x _ _ _ x x _ _ x O x _ _ O _ _ O _ 
+x x _ _ _ x O _ _ _ O _ x _ _ _ _ x _ _ 
+x x _ _ x _ O _ x _ _ _ _ x _ x O _ _ _ 
+_ x _ O O x _ _ x x _ x x _ _ _ x _ x O 
+x x x _ x x O _ x x _ _ _ x x _ _ x x _ 
+ 
+_ x x _ x _ _ _ x x _ x * _ x x _ _ x * 
+ x x x _ x _ x _ * x _ _ x _ x _ _ x x x 
+ _ _ _ x x _ x _ x x _ _ _ * x x * _ * _ 
+ x x x * x _ * _ _ * _ _ x x * x x x _ x 
+ x x x _ * _ x _ O O O O _ x _ _ _ _ _ _ 
+ _ x _ x x _ _ O x _ x * O x x * S _ x _ 
+ x * x _ * * x O _ x x _ * O x * x O x * 
+ x * * * x x O _ x _ * x _ _ O O O _ x _ 
+ _ x x * x O _ _ _ _ x _ x x _ _ x _ x * 
+ * _ _ * O * _ x x x x x _ x _ _ x x x * 
+ _ _ x O x x _ x _ * x _ _ _ _ x x _ x x 
+ _ x * O x _ x * x x _ _ * * * _ _ _ _ _ 
+ x * * O x _ _ _ x x x x _ _ * _ _ x _ _ 
+ * _ x O x _ x x * _ x * _ x x _ _ _ _ * 
+ _ _ E _ _ x _ _ _ * _ _ * _ _ _ * x x _ 
+ _ x x _ _ _ x x _ _ x * x _ _ * _ _ * _ 
+ x x _ _ _ x * _ _ _ * _ x _ _ _ _ x _ _ 
+ x x _ _ x _ * _ x _ _ _ _ x _ x * _ _ _ 
+ _ x _ * * x _ _ x x _ x x _ _ _ x _ x * 
+ x x x _ x x * _ x x _ _ _ x x _ _ x x _ 
+ 
+_ x x _ x _ _ _ x x _ x * _ x x _ _ x * 
+ x x x _ x _ x _ * x _ _ x _ x _ _ x x x 
+ _ _ _ x x _ x _ x x _ _ _ * x x * _ * _ 
+ x x x * x _ * _ _ * _ _ x x * x x x _ x 
+ x x x _ * _ x _ O O O _ _ x _ _ _ _ _ _ 
+ _ x _ x x _ _ O x _ x O * x x * S _ x _ 
+ x * x _ * * x O _ x x O * _ x O x _ x * 
+ x * * * x x O _ x _ * x O O _ O _ _ x _ 
+ _ x x * x O _ _ _ _ x _ x x O O x _ x * 
+ * _ _ * O * _ x x x x x _ x O _ x x x * 
+ _ _ x O x x _ x _ * x _ O O _ x x _ x x 
+ _ x * O x _ x * x x _ O * * * _ _ _ _ _ 
+ x * * O x _ _ _ x x x x _ _ * _ _ x _ _ 
+ * _ x O x _ x x * _ x * _ x x _ _ _ _ * 
+ _ _ E _ _ x _ _ _ * _ _ * _ _ _ * x x _ 
+ _ x x _ _ _ x x _ _ x * x _ _ * _ _ * _ 
+ x x _ _ _ x * _ _ _ * _ x _ _ _ _ x _ _ 
+ x x _ _ x _ * _ x _ _ _ _ x _ x * _ _ _ 
+ _ x _ * * x _ _ x x _ x x _ _ _ x _ x * 
+ x x x _ x x * _ x x _ _ _ x x _ _ x x _ 
+ 
+
+1
+
+Dimenzije: 40x40 Vidokrug: 20
+Vreme izvesavanja za:
+- A*: 0.141000032425
+- Potraga: 7.64599990845
+- Potraga bez gledanja: 0.0
+- Glup algoritam: 0.0368599867821
+
+Potezi za:
+- A*: 82.12
+- Potraga: 109.76
+- Potraga bez gledanja: 436.8229
+- Glup algoritam: 2465.78391023
+
+x x x O O O x O _ x x _ x O O _ x O O x x O _ _ O O O x x _ _ _ x _ x O _ _ x x 
+ _ x x _ _ x x _ _ _ _ x _ _ _ x _ _ _ x x _ O x O O _ x x _ _ _ x x x O _ _ _ _ 
+ _ _ x O _ _ O x x x _ O _ x _ _ _ O x _ _ x O O x _ _ _ x x _ O O _ _ x x _ _ _ 
+ _ _ x _ x _ O x _ x x O _ _ _ _ O _ x x _ O x _ x _ x O _ x x _ x _ _ x _ _ O _ 
+ O _ O _ O x _ _ _ x _ x _ x _ x O O _ x O _ x _ x x _ _ x O x x _ x O x x O _ _ 
+ x x x O x _ _ _ _ O _ _ x _ _ _ _ O x _ _ O O x x _ _ _ O _ _ _ O x _ x x O x _ 
+ O x _ _ O x _ _ x x O _ O _ O x O x _ x O x _ x O _ _ x x _ O x _ x O _ O x _ _ 
+ _ _ _ x O x x _ x _ O _ x O _ x _ _ O _ _ _ x _ _ x O _ x _ O _ _ x _ x x x _ O 
+ _ _ _ _ O _ O _ x _ O _ O O x x _ _ _ _ O _ x _ _ x _ x x _ x _ x _ O x x _ _ _ 
+ x O O O x O _ _ x _ O _ _ O x _ _ _ O _ x x O O _ x x x x O _ O _ _ x x _ _ _ O 
+ O _ _ _ O _ _ _ _ _ _ O _ _ x x _ x _ _ x x _ _ x _ _ x x _ _ _ x _ _ x x _ _ _ 
+ O _ O _ O x O x O x _ _ O _ _ _ _ x _ x x x _ _ x O O _ _ O x O O _ _ _ _ _ _ _ 
+ x x x O O _ x O O _ _ _ x _ _ _ O _ x x _ _ x _ _ O x O _ O x _ x O O _ x _ x _ 
+ _ O _ x _ _ _ _ O _ _ O x _ _ x _ _ O _ _ _ x _ x x O x _ _ x _ _ x _ O x _ _ _ 
+ O _ _ _ O _ _ _ _ _ _ x x _ O _ _ x x _ _ x x x _ _ O _ _ x _ O x _ _ O _ x x O 
+ x _ _ x x _ _ _ x _ _ _ x _ _ x _ _ _ O x x x _ x O O O _ _ _ x O _ _ x _ _ x _ 
+ _ _ x _ _ x _ _ O _ O x _ _ O _ O x O _ x _ O x x _ x O _ x _ x _ O _ x _ _ x O 
+ O x O _ _ O _ _ _ _ _ O _ _ O x _ _ x _ x x _ _ _ _ x _ O _ _ x _ _ O _ _ x _ O 
+ _ x _ O x O _ x _ O O x O _ _ _ _ O _ _ x O _ _ _ O O _ _ x _ x x _ _ x x _ _ x 
+ _ _ _ x _ x _ x _ _ x O x O O x _ x _ _ x _ x O O x _ _ x _ _ x x O O _ x _ x x 
+ x _ _ x _ _ x x x x _ _ x _ _ _ _ _ _ x _ _ x _ _ _ _ _ _ x _ _ _ O _ O x O _ x 
+ x x x _ _ x _ x x O O O O _ _ O _ _ x _ _ x x _ _ x _ _ _ x _ _ O _ x x _ x _ _ 
+ _ _ x _ x _ _ x _ O x x _ _ _ _ O _ _ x x _ O x x _ _ x _ x _ _ O _ _ x _ O _ O 
+ O x x x _ x _ _ _ x _ _ O _ _ O x _ x x _ _ _ O x x x O _ x O O _ _ O x x x _ O 
+ O x x x _ O x x x x _ _ _ O O _ _ O x _ _ x _ _ _ _ x _ _ _ O _ x O O x O _ x x 
+ _ _ _ _ _ _ _ x _ x O x _ x x _ x _ x O _ O _ x O x _ _ O _ _ _ O _ _ x _ _ O O 
+ _ _ _ _ _ _ _ _ _ _ x x x x _ _ _ x _ O _ x _ _ _ x x O x O _ x _ x _ _ x O x O 
+ O _ _ _ x O O _ x x O _ x _ O x _ _ x _ x x x O _ _ x _ x _ x O O x x x _ _ _ _ 
+ _ _ O x x _ _ _ x _ _ _ _ _ _ _ _ _ x O x _ O x _ x _ O x O x _ O _ O _ _ _ x O 
+ _ _ _ x x _ _ _ _ _ x _ O x _ _ _ _ _ O _ x _ _ x _ O _ _ x _ O O x x O _ x _ x 
+ x x _ _ _ O _ _ _ x x _ _ _ _ x x O O O O x x O _ _ _ _ _ _ x _ O _ _ x _ x _ _ 
+ O _ _ _ _ x x _ x _ x _ O x x x x _ _ _ x _ _ O x x x _ _ _ O x _ _ x _ x x O _ 
+ x O _ x x _ _ x x x O _ x _ x _ x O _ O x _ _ O _ _ O x _ _ O O x O _ _ x O x _ 
+ _ x O _ O O x x O x x O _ _ _ O x x _ O x _ _ O x _ O x x O x x _ _ x x x _ _ _ 
+ x O _ _ _ _ x O O _ x _ x _ _ x _ x _ x x O x _ O _ _ _ x _ x _ _ _ O O _ O x _ 
+ x x x x _ O _ O _ _ x _ _ x _ _ _ x x _ x O x O x _ x _ _ _ _ _ _ _ _ _ x _ x _ 
+ x _ _ _ O _ O x x O _ x _ x x O _ _ _ _ x O x x _ x _ _ _ x O _ x x O x _ _ x _ 
+ x x _ _ _ O _ O x x x _ _ x x _ _ x x x _ _ O x _ _ _ _ _ O x O x x _ O x x x _ 
+ _ _ _ x x _ x O _ _ O O _ _ x x _ _ _ x O x _ O _ _ _ _ x x _ x _ _ O x _ _ O x 
+ _ _ x _ _ O x x O _ x _ x _ x _ _ x _ O _ O x _ O O _ O O _ _ _ x _ O _ _ O O _ 
+ 
+x x x * * * x * _ x x _ x * * _ x * * x x * _ _ * * * x x _ _ _ x _ x * _ _ x x 
+ _ x x _ _ x x _ _ _ _ x _ _ _ x _ _ _ x x _ * x * * _ x x _ _ _ x x x * _ _ _ _ 
+ _ _ x * _ _ * x x x _ * _ x _ _ _ * x _ _ x * * x _ _ _ x x _ * * _ _ x x _ _ _ 
+ _ _ x _ x _ * x _ x x * _ _ _ _ * _ x x _ * x _ x _ x * _ x x _ x _ _ x _ _ * _ 
+ * _ * _ * x _ _ _ x _ x _ x _ x * * _ x * _ x _ x x _ _ x * x x _ x * x x * _ _ 
+ x x x * x _ _ _ _ * _ _ x _ _ _ _ * x _ _ * * x x _ _ _ * _ _ _ * x _ x x * x _ 
+ * x _ _ * x _ _ x x * _ * _ * x * x _ x * x _ x * _ _ x x _ * x _ x * _ * x _ _ 
+ _ _ _ x * x x _ x _ * _ x * _ x _ _ * _ _ _ x _ _ x * _ x _ * _ _ x _ x x x _ * 
+ _ _ _ _ * _ * _ x _ * _ * * x x _ _ _ _ * _ x _ _ x _ x x _ x _ x _ * x x _ _ _ 
+ x * * * x * _ _ x _ * _ _ * x _ _ _ * _ x x * * _ x x x x * _ * _ _ x x _ _ _ * 
+ * _ _ _ * _ _ _ _ _ _ * _ _ x x _ x _ _ x x _ _ x _ _ x x _ _ _ x _ _ x x _ _ _ 
+ * _ * _ * x * x * x _ _ * _ _ _ _ x _ x x x _ _ x * * _ _ * x * * _ _ _ _ _ _ _ 
+ x x x * * _ x * * _ _ _ x _ _ _ * _ x x _ _ x _ _ * x * _ * x _ x * * _ x _ x _ 
+ _ * _ x _ _ _ _ * _ _ * x _ _ x _ _ * _ _ _ x _ x x * x _ _ x _ _ x _ * x _ _ _ 
+ * _ _ _ * _ E _ _ _ _ x x _ * _ _ x x _ _ x x x _ _ * _ _ x _ * x _ _ * _ x x * 
+ x _ _ x x _ _ O x _ _ _ x _ _ x _ _ _ * x x x _ x * * * _ _ _ x * _ _ x _ _ x _ 
+ _ _ x _ _ x _ O * _ * x _ _ * _ * x * _ x _ * x x _ x * _ x _ x _ * _ x _ _ x * 
+ * x * _ _ * _ _ O O O O O _ * x _ _ x _ x x _ _ _ _ x _ * _ _ x _ _ * _ _ x _ * 
+ _ x _ * x * _ x _ * * x * O _ _ _ * _ _ x * _ _ _ * * _ _ x _ x x _ _ x x _ _ x 
+ _ _ _ x _ x _ x _ _ x * x O * x _ x _ _ x _ x * * x _ _ x _ _ x x * * _ x _ x x 
+ x _ _ x _ _ x x x x _ _ x O _ _ _ _ _ x _ _ x _ _ _ _ _ _ x _ _ _ * _ * x * _ x 
+ x x x _ _ x _ x x * * * * _ O * _ _ x _ _ x x _ _ x _ _ _ x _ _ * _ x x _ x _ _ 
+ _ _ x _ x _ _ x _ * x x _ _ O _ * _ _ x x _ * x x _ _ x _ x _ _ * _ _ x _ * _ * 
+ * x x x _ x _ _ _ x _ _ * _ O * x _ x x _ _ _ * x x x * _ x * * _ _ * x x x _ * 
+ * x x x _ * x x x x _ _ _ * * O _ * x _ _ x _ _ _ _ x _ _ _ * _ x * * x * _ x x 
+ _ _ _ _ _ _ _ x _ x * x _ x x O x _ x * _ * _ x * x _ _ * _ _ _ * _ _ x _ _ * * 
+ _ _ _ _ _ _ _ _ _ _ x x x x O _ _ x _ * _ x _ _ _ x x * x * _ x _ x _ _ x * x * 
+ * _ _ _ x * * _ x x * _ x O * x _ _ x _ x x x * _ _ x _ x _ x * * x x x O O O S 
+ _ _ * x x _ _ _ x _ _ _ O _ _ _ _ _ x * x _ * x _ x _ * x * x _ * O O O _ _ x * 
+ _ _ _ x x _ _ _ _ _ x O * x _ _ _ _ _ * _ x _ _ x _ * _ _ x _ * O x x * _ x _ x 
+ x x _ _ _ * _ _ _ x x O _ _ _ x x * * * * x x * _ _ _ _ _ _ x _ * O _ x _ x _ _ 
+ * _ _ _ _ x x _ x _ x O * x x x x _ _ _ x _ _ * x x x _ _ _ * x _ O x _ x x * _ 
+ x * _ x x _ _ x x x * O x _ x _ x * _ * x _ _ * _ _ * x _ _ * * x * O _ x * x _ 
+ _ x * _ * * x x * x x * O _ _ * x x _ * x _ _ * x _ * x x * x x O O x x x _ _ _ 
+ x * _ _ _ _ x * * _ x _ x O _ x _ x _ x x * x _ * _ _ _ x _ x O _ _ * * _ * x _ 
+ x x x x _ * _ * _ _ x _ _ x O O _ x x _ x * x * x _ x O O O O _ _ _ _ _ x _ x _ 
+ x _ _ _ * _ * x x * _ x _ x x * O _ _ _ x * x x _ x O _ _ x * _ x x * x _ _ x _ 
+ x x _ _ _ * _ * x x x _ _ x x _ O x x x _ O * x _ O _ _ _ * x * x x _ * x x x _ 
+ _ _ _ x x _ x * _ _ * * _ _ x x _ O _ x O x O * O _ _ _ x x _ x _ _ * x _ _ * x 
+ _ _ x _ _ * x x * _ x _ x _ x _ _ x O O O * x O * * _ * * _ _ _ x _ * _ _ * * _ 
+ 
+x x x * * * x * _ x x _ x * * _ x * * x x * _ _ * * * x x _ _ _ x _ x * _ _ x x 
+ _ x x _ _ x x _ _ _ _ x _ _ _ x _ _ _ x x _ * x * * _ x x _ _ _ x x x * _ _ _ _ 
+ _ _ x * _ _ * x x x _ * _ x _ _ _ * x _ _ x * * x _ _ _ x x _ * * _ _ x x _ _ _ 
+ _ _ x _ x _ * x _ x x * _ _ _ _ * _ x x _ * x _ x _ x * _ x x _ x _ _ x _ _ * _ 
+ * _ * _ * x _ _ _ x _ x _ x _ x * * _ x * _ x _ x x _ _ x * x x _ x * x x * _ _ 
+ x x x * x _ _ _ _ * _ _ x _ _ _ _ * x _ _ * * x x _ _ _ * _ _ _ * x _ x x * x _ 
+ * x _ _ * x _ _ x x * _ * _ * x * x _ x * x _ x * _ _ x x _ * x _ x * _ * x _ _ 
+ _ _ _ x * x x _ x _ * _ x * _ x _ _ * _ _ _ x _ _ x * _ x _ * _ _ x _ x x x _ * 
+ _ _ _ _ * _ * _ x _ * _ * * x x _ _ _ _ * _ x _ _ x _ x x _ x _ x _ * x x _ _ _ 
+ x * * * x * _ _ x _ * _ _ * x _ _ _ * _ x x * * _ x x x x * _ * _ _ x x _ _ _ * 
+ * _ _ _ * _ _ _ _ _ _ * _ _ x x _ x _ _ x x _ _ x _ _ x x _ _ _ x _ _ x x _ _ _ 
+ * _ * _ * x * x * x _ _ * _ _ _ _ x _ x x x _ _ x * * _ _ * x * * _ _ _ _ _ _ _ 
+ x x x * * _ x * * _ _ _ x _ _ _ * _ x x _ _ x _ _ * x * _ * x _ x * * _ x _ x _ 
+ _ * _ x _ _ _ _ * _ _ * x _ _ x _ _ * _ _ _ x _ x x * x _ _ x _ _ x _ * x _ _ _ 
+ * _ _ _ * _ E O O _ _ x x _ * _ _ x x _ _ x x x _ _ * _ _ x _ * x _ _ * _ x x * 
+ x _ _ x x _ _ _ x O _ _ x _ _ x _ _ _ * x x x _ x * * * _ _ _ x * _ _ x _ _ x _ 
+ _ _ x _ _ x _ _ * O * x _ _ * _ * x * _ x _ * x x _ x * _ x _ x _ * _ x _ _ x * 
+ * x * _ _ * _ _ _ _ O O O _ * x _ _ x _ x x _ _ _ _ x _ * O _ x _ _ * _ _ x _ * 
+ _ x _ * x * _ x _ * * x * O _ _ _ * _ _ x * _ _ _ * * _ O x O x x _ _ x x _ _ x 
+ _ _ _ x _ x _ x _ _ x * x O * x _ x _ _ x _ x * * x _ O x _ O x x * * _ x _ x x 
+ x _ _ x _ _ x x x x _ _ x O _ _ _ _ _ x _ _ x _ _ _ _ O _ x O _ _ * _ * x * _ x 
+ x x x _ _ x _ x x * * * * O _ * _ _ x _ _ x x _ _ x _ O _ x O _ * _ x x _ x _ _ 
+ _ _ x _ x _ _ x _ * x x _ O _ _ * _ _ x x _ * x x _ _ x O x O _ * _ _ x _ * _ * 
+ * x x x _ x _ _ _ x _ _ * _ O * x _ x x _ _ _ * x x x * O x O * _ _ * x x x _ * 
+ * x x x _ * x x x x _ _ _ * * O _ * x _ _ x _ _ _ _ x O _ _ * O x * * x * _ x x 
+ _ _ _ _ _ _ _ x _ x * x _ x x O x _ x * _ * _ x * x _ O * _ _ O * _ _ x _ _ * * 
+ _ _ _ _ _ _ _ _ _ _ x x x x O _ _ x _ * _ x _ _ _ x x O x * _ x O x _ _ x * x * 
+ * _ _ _ x * * _ x x * _ x O * x _ _ x _ x x x * _ _ x O x _ x * O x x x O O O S 
+ _ _ * x x _ _ _ x _ _ _ O _ _ _ _ _ x * x _ * x _ x O * x * x _ * O O O _ _ x * 
+ _ _ _ x x _ _ _ _ _ x O * x _ _ _ _ _ * _ x _ _ x O * _ _ x _ * * x x * _ x _ x 
+ x x _ _ _ * _ _ _ x x O _ _ _ x x * * * * x x * O _ _ _ _ _ x _ * _ _ x _ x _ _ 
+ * _ _ _ _ x x _ x _ x O * x x x x _ _ _ x _ _ O x x x _ _ _ * x _ _ x _ x x * _ 
+ x * _ x x _ _ x x x * O x _ x _ x * _ * x _ O * _ _ * x _ _ * * x * _ _ x * x _ 
+ _ x * _ * * x x * x x * O O _ * x x _ * x O _ * x _ * x x * x x _ _ x x x _ _ _ 
+ x * _ _ _ _ x * * _ x _ x _ O x _ x _ x x O x _ * _ _ _ x _ x _ _ _ * * _ * x _ 
+ x x x x _ * _ * _ _ x _ _ x _ O _ x x _ x O x * x _ x _ _ _ _ _ _ _ _ _ x _ x _ 
+ x _ _ _ * _ * x x * _ x _ x x * O _ _ _ x O x x _ x _ _ _ x * _ x x * x _ _ x _ 
+ x x _ _ _ * _ * x x x _ _ x x _ O x x x _ O * x _ _ _ _ _ * x * x x _ * x x x _ 
+ _ _ _ x x _ x * _ _ * * _ _ x x _ O _ x O x _ * _ _ _ _ x x _ x _ _ * x _ _ * x 
+ _ _ x _ _ * x x * _ x _ x _ x _ _ x O O O * x _ * * _ * * _ _ _ x _ * _ _ * * _ 
+ 
+
+1
+
+
+0
+
+
+0
+
+
+0
+
